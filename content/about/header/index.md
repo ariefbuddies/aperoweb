@@ -1,7 +1,7 @@
 ---
 ## Configure header of page
-text_align_right: false
-show_title_as_headline: false
+text_align_right: true
+show_title_as_headline: true
 headline: |
   Hi, my name is Hugo Apéro. Nice to meet you.
 ---
@@ -13,15 +13,16 @@ The page you are reading is based on a markdown file- look in `content/about/` t
 
 # Sewa Mobil Jogja IstimeW:a:h&#10024;☔ 🚙
 
-# Daftar Mobil Bening Abadi Trans
-
+# Daftar Mobil Bening Abadi Transport
+<hr>
+<br>
 ## WULING AIR EV LR(new)
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
 # Lepas :key:
 
-
-# <mark><u>6 Jam</u></mark>  <mark>350k</mark>
-# PerDay 450k
+>
+> * 6 Jam 350k
+> * PerDay 450k
 
 ---
 
