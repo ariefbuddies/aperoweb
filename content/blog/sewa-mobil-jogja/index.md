@@ -23,8 +23,8 @@ layout: single
 # Lepas :key:
 | Durasi  | Harga |
 | ----- | --- |
-| 6 Jam   | **350k**  |
-| PerHari | **450k** |
+| 6 Jam   | **350 Ribu**  |
+| PerHari | **450 Ribu** |
 
 ---
 
@@ -34,8 +34,8 @@ layout: single
 
 | Durasi  | Harga |
 | ----- | --- |
-| 12 Jam   | **275k**  |
-| 24 Jam | **325k** |
+| 12 Jam   | **275 Ribu**  |
+| 24 Jam | **325 Ribu** |
 
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
@@ -53,8 +53,8 @@ layout: single
     
 | Durasi  | Harga |
 | ----- | --- |
-| 12 Jam   | **250k**  |
-| 24 Jam | **300k** |
+| 12 Jam   | **250 Ribu**  |
+| 24 Jam | **300 Ribu** |
 
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
@@ -72,8 +72,8 @@ layout: single
     
 | Durasi  | Harga |
 | ----- | --- |
-| 12 Jam   | **275k**  |
-| 24 Jam | **325k** |
+| 12 Jam   | **275 Ribu**  |
+| 24 Jam | **325 ribu** |
 
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
@@ -92,8 +92,8 @@ layout: single
     
 | Durasi  | Harga |
 | ----- | --- |
-| 12 Jam   | **275k**  |
-| 24 Jam | **325k** |
+| 12 Jam   | **275 Ribu**  |
+| 24 Jam | **325 Ribu** |
 
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
@@ -111,8 +111,8 @@ layout: single
     
 | Durasi  | Harga |
 | ----- | --- |
-| 12 Jam   | **275k**  |
-| 24 Jam | **325k** |
+| 12 Jam   | **275 Ribu**  |
+| 24 Jam | **325 Ribu** |
 
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
@@ -130,8 +130,8 @@ layout: single
     
 | Durasi  | Harga |
 | ----- | --- |
-| 12 Jam | **250k**  |
-| 24 Jam | **300k** |
+| 12 Jam | **250 Ribu**  |
+| 24 Jam | **300 Ribu** |
 
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
@@ -147,43 +147,49 @@ layout: single
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/agya.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
-> 
-> * 12 Jam ==225 rb==
-> * 24 Jam ==275 rb==
+| Durasi  | Harga |
+| ----- | --- |
+| 12 Jam | **225 Ribu**  |
+| 24 Jam | **275 Ribu** |
+
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
 > 
-> * Perhari ==Call/WA==
+> * Perhari **Call/WA**
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
 > 
-> * Perhari ==Call/WA==
+> * Perhari **Call/WA**
 ---
 
 ## Toyota Calya M:a:tic 
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/calya-matic-2016.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
-> 
-> * 12 Jam ==250 rb==
-> * 24 Jam ==300 rb==
+| Durasi  | Harga |
+| ----- | --- |
+| 12 Jam | **250 Ribu**  |
+| 24 Jam | **300 Ribu** |
+
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
 > 
-> * Perhari ==Call/WA==
+> * Perhari **Call/WA**
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
 > 
-> * Perhari ==Call/WA==
+> * Perhari **Call/WA**
 ---
 
 ## Grand Max PU BOX 
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5b0bed6990b95.webp?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
-> 
-> * 12 Jam ==200 rb==
-> * 24 Jam ==250 rb==
+| Durasi  | Harga |
+| ----- | --- |
+| 12 Jam | **250 Ribu**  |
+| 24 Jam | **300 Ribu** |
+
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
 > 
@@ -191,7 +197,7 @@ layout: single
 ### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
     
 > 
-> * Perhari ==Call/WA==
+> * Perhari **Call/WA**
 ---
 
 HARGA DI WEB INI BUKAN HARGA DI SAAT HIGH SEASON & HARGA BISA BERUBAH SEWAKTU WAKTU
