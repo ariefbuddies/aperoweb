@@ -20,13 +20,10 @@ The page you are reading is based on a markdown file- look in `content/about/` t
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
 # Lepas :key:
 
->
-> * 6 Jam 350k
-> * PerDay 450k
-| Name  | Age |
+| Durasi  | Harga |
 | ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
+| 6 Jam   | 350k  |
+| PerHari | 450k  |
 
 ---
 
