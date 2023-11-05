@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = "Samirono 22B"
   description = "Sewa Mobil Jogja"
   favicon = "/aperoweb/img/favicon.ico"
-  logo = "/aperoweb/img/logokecil.png"
+  logo = "/aperoweb/img/android-chrome-512x512.png"
   mainSections = ["blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
