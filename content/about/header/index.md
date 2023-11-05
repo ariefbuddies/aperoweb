@@ -23,6 +23,10 @@ The page you are reading is based on a markdown file- look in `content/about/` t
 >
 > * 6 Jam 350k
 > * PerDay 450k
+| Name  | Age |
+| ----- | --- |
+| Bob   | 27  |
+| Alice | 23  |
 
 ---
 
