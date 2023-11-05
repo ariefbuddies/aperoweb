@@ -2,7 +2,7 @@ baseURL = "https://ariefbuddies.github.io/aperoweb/"
 theme = "apero"
 languageCode = "en"
 title = "Hugo Apéro"
-author = "Alison Hill"
+author = "Bening Abadi"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "earth"
+  theme = "forest"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
