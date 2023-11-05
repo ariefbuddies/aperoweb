@@ -1,3 +1,4 @@
+---
 title: "Rental Motor Jogja"
 subtitle: "Rental Motor Jogja menyewakan motor."
 excerpt: "Rental Motor Jogja menyewakan motor murah."
