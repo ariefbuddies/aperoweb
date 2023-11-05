@@ -1,7 +1,7 @@
 ---
 title: "Sewa Mobil Jogja"
-subtitle: "Use a built-in color theme, or design your own with a Tachyons palette or your own hex codes."
-excerpt: "This theme offers three ways to customize your site's colors. Use one of 8 built-in color themes, or style your own palette using named colors from the Tachyons design system. You may also bring your own hex codes to make fully custom color palette that is all your own."
+subtitle: "Sewa Mobil Jogja menyewakan mobil."
+excerpt: "Sewa Mobil Jogja menyewakan mobil murah."
 date: 2023-11-05
 author: "Alison Hill & Eric Anderson"
 draft: false
