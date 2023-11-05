@@ -13,9 +13,9 @@ categories:
 layout: single
 ---
 
-# Sewa Mobil Jogja IstimeW:a:h&#10024;
+# Sewa Mobil Jogja IstimeW:a:h
 
-# Daftar Mobil Bening Abadi Transport
+## Daftar Mobil Bening Abadi Transport
 <hr>
 
 ## WULING AIR EV LR(new)
