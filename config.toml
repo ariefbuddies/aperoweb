@@ -10,7 +10,7 @@ metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 paginate = 1
-preserveTaxonomyNames = false
+preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
 
@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "BAT"
   orgLocal = "Samirono 22B"
   description = "Sewa Mobil Jogja"
-  favicon = "https://ariefbuddies.github.io/aperoweb/img/favicon.ico"
-  logo = "https://ariefbuddies.github.io/aperoweb/img/logokecil.png"
+  favicon = "/aperoweb/img/favicon.ico"
+  logo = "/aperoweb/img/logokecil.png"
   mainSections = ["blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
