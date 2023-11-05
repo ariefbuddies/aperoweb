@@ -1,5 +1,5 @@
 ---
-title: "Sewa Mobil Jogja yaa.. di Bening Abadi Transport"
+title: "Sewa Mobil Jogja yaa.. di Bening Abadi Transport 🫰"
 subtitle: "Tempat sewa mobil paling asyik se Jogja"
 description: "Sewa Mobil Jogja Bening Abadi Transport adalah tempat sewa mobil paling asyik se Jogja."
 images:
