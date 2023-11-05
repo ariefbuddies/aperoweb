@@ -151,6 +151,11 @@ enableEmoji = true
     title = "Element Page"
     url = "/elements/"
     weight = 6
+  [[menu.header]]
+    name = "Sewa Mobil Jogja"
+    title = "Sewa Mobil Jogja"
+    url = "/sewa-mobil-jogja/"
+    weight = 7
     
   # Configure footer 
   #  [[menu.footer]]
