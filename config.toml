@@ -122,7 +122,7 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Sewa Mobil Jogja"
+    name = "Sewa Mobil Jogja 🚗"
     title = "Sewa Mobil Jogja"
     url = "/blog/sewa-mobil-jogja/"
     weight = 1
