@@ -8,8 +8,8 @@ image_left: true
 text_align_left: false
 show_social_links: false # specify social accounts in site config
 show_action_link: true
-action_link: https://ariefbuddies.github.io/aperoweb/about/
-action_label: "Read More &rarr;"
+action_link: /blog/sewa-mobil-jogja/
+action_label: "Ayo klik sini &rarr;"
 action_type: text # text, button
 type: home
 ---
