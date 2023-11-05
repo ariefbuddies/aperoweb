@@ -20,7 +20,7 @@ layout: single
 
 ## WULING AIR EV LR(new)
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
-# Lepas :key:
+# Lepas Kunci 🗝️
 | Durasi  | Harga |
 | ----- | --- |
 | 6 Jam   | **350 Ribu**  |
