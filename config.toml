@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "forest"
+  theme = "grayscale"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -152,22 +152,22 @@ enableEmoji = true
     url = "/elements/"
     weight = 6
     
-  # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+  # Configure footer 
+  #  [[menu.footer]]
+  #  name = "License"
+  #  title = "License"
+  #  url = "/license/"
+  #  weight = 1
+  # [[menu.footer]]
+  #  name = "Contact"
+ # title = "Contact form"
+  #  url = "/contact/"
+  #  weight = 2
+#  [[menu.footer]]
+  #  name = "Contributors"
+ #   title = "Contributors"
+#    url = "/contributors/"
+ #   weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
