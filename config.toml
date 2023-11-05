@@ -29,7 +29,7 @@ enableEmoji = true
     
 [params]
   orgName = "BAT"
-  orgLocal = "Samirono 22B"
+  orgLocal = "Samirono 22B Yk"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "https://ariefbuddies.github.io/aperoweb/img/favicon.ico"
   logo = "https://ariefbuddies.github.io/aperoweb/img/blogophonic-mark-dark.png"
