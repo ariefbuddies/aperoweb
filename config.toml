@@ -136,6 +136,11 @@ enableEmoji = true
     title = "Rental Motor Jogja"
     url = "/blog/penginapan-murah-jogja/"
     weight = 3
+  [[menu.header]]
+    name = "Obyek Wisata Jogja 🏖️"
+    title = "Obyek Wisata Jogja"
+    url = "/blog/"
+    weight = 4
     
   # Configure footer 
   #  [[menu.footer]]
