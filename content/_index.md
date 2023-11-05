@@ -5,10 +5,10 @@ description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blog
 images:
   - img/revoir.jpg
 image_left: true
-text_align_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
-action_link: /about
+action_link: https://ariefbuddies.github.io/aperoweb/about/
 action_label: "Read More &rarr;"
 action_type: text # text, button
 type: home
