@@ -122,40 +122,20 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Tentang"
-    title = "Tentang Bening"
-    url = "/about/"
-    weight = 1
-  [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
-    weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
-  [[menu.header]]
     name = "Sewa Mobil Jogja"
     title = "Sewa Mobil Jogja"
     url = "/blog/sewa-mobil-jogja/"
-    weight = 7
+    weight = 1
+  [[menu.header]]
+    name = "Rental Motor Jogja"
+    title = "Rental Motor Jogja"
+    url = "/blog/rental-motor-jogja/"
+    weight = 2
+  [[menu.header]]
+    name = "Penginapan Murah Jogja"
+    title = "Rental Motor Jogja"
+    url = "/blog/penginapan-murah-jogja/"
+    weight = 3
     
   # Configure footer 
   #  [[menu.footer]]
