@@ -47,7 +47,7 @@ layout: single
 > * Perhari **Call/WA**
 ---
 
-## Avanza Veloz M:a:nu:a:l
+## Avanza Veloz Manu:a:l
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key:
     
