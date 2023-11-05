@@ -29,11 +29,11 @@ enableEmoji = true
     
 [params]
   orgName = "BAT"
-  orgLocal = "Samirono 22B Yk"
+  orgLocal = "Samirono 22B"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "https://ariefbuddies.github.io/aperoweb/img/favicon.ico"
   logo = "https://ariefbuddies.github.io/aperoweb/img/logokecil.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
