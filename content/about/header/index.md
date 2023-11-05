@@ -15,7 +15,7 @@ The page you are reading is based on a markdown file- look in `content/about/` t
 
 # Daftar Mobil Bening Abadi Transport
 <hr>
-<br>
+
 ## WULING AIR EV LR(new)
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
 # Lepas :key:
