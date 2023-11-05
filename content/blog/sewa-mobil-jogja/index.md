@@ -3,12 +3,12 @@ title: "Sewa Mobil Jogja"
 subtitle: "Sewa Mobil Jogja menyewakan mobil."
 excerpt: "Sewa Mobil Jogja menyewakan mobil murah."
 date: 2023-11-05
-author: "Alison Hill & Eric Anderson"
+author: "BAT"
 draft: false
 tags:
-  - style
+  - mobil
 categories:
-  - Theme Features
+  - sewa mobil jogja
 # layout options: single, single-sidebar
 layout: single
 ---
