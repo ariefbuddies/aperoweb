@@ -1,3 +1,4 @@
+---
 title: "Penginapan Murah Jogja"
 subtitle: "Penginapan Murah Jogja menyewakan kamar."
 excerpt: "Penginapan Murah Jogja menyewakan kamar murah."
@@ -11,5 +12,5 @@ tags:
 categories:
   - penginapan murah jogja
 # layout options: single, single-sidebar
-layout: single
+layout: single-sidebar
 ---
