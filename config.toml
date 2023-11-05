@@ -10,7 +10,7 @@ metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 paginate = 10
-preserveTaxonomyNames = true
+preserveTaxonomyNames = false
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
 
@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "BAT"
   orgLocal = "Samirono 22B"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Sewa Mobil Jogja"
   favicon = "https://ariefbuddies.github.io/aperoweb/img/favicon.ico"
   logo = "https://ariefbuddies.github.io/aperoweb/img/logokecil.png"
   mainSections = ["blog"]
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "violet"
+  theme = "water"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -61,7 +61,7 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"
+  customtextFontFamily = "Metropolis"
   customheadingFontFamily = "Fraunces"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
