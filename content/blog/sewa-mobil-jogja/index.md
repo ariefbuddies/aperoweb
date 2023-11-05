@@ -13,10 +13,96 @@ categories:
 layout: single
 ---
 
-You can totally customize your site's theme colors within minutes of
-creating a new site. Read on to find out how, and decide which of the 
-three options meets your needs.
+# Sewa Mobil Jogja IstimeW:a:h&#10024;☔ 🚙
 
+# Daftar Mobil Bening Abadi Transport
+<hr>
+
+## WULING AIR EV LR(new)
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/gigitdemo/main/wuling.jpg?w=240&radius=20&force_format=png&#center)
+# Lepas :key:
+| Durasi  | Harga |
+| ----- | --- |
+| 6 Jam   | 350k  |
+| PerHari | 450k  |
+
+---
+
+## 🅰️ll New Honda Brio Matic
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg?w=240&radius=20&force_format=png&#center)
+### Lepas Kunci:key: 
+    
+> 
+> * 12 Jam ==275 rb==
+> * 24 Jam ==325 rb==
+### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+    
+> 
+> * Perhari ==Call/WA==
+### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+    
+> 
+> * Perhari ==Call/WA==
+---
+
+## Avanza Veloz M:a:nu:a:l
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
+### Lepas Kunci:key:
+    
+> 
+> * 12 Jam ==250 rb==
+> * 24 Jam ==300 rb== 
+### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+    
+> 
+> * Perhari ==Call/WA==
+### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+    
+>
+> * Perhari ==Call/WA==
+---
+
+## Avanza Veloz M:a:tic 
+![img](https://aceapugtar.cloudimg.io/gigitdemo.my.id/veloz-matic.jpg?w=240&radius=20&force_format=png&#center)
+### Lepas Kunci:key:
+    
+> 
+> * 12 Jam ==275 rb==
+> * 24 Jam ==325 rb== 
+### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+    
+> 
+> * Perhari ==Call/WA==
+### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+    
+> 
+> * Perhari ==Call/WA==
+    
+---
+
+## Honda Brio CBU M:a:tic
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-cbu-matic-2014.jpg?w=240&radius=20&force_format=png&#center)
+### Lepas Kunci:key: 
+    
+> 
+> * 12 Jam ==275 rb==
+> * 24 Jam ==325 rb==
+### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+    
+> 
+> * Perhari ==Call/WA==
+### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+    
+> 
+> * Perhari ==Call/WA==
+---
+
+## All New Honda Brio M:a:tic
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
+### Lepas Kunci:key: 
+    
+>  
+> * 12 Jam ==275 rb==
 > * 24 Jam ==325 rb==
 ### Mobil :heavy_plus_sign: Driver (tanpa BBM)
     
@@ -100,4 +186,3 @@ three options meets your needs.
 HARGA DI WEB INI BUKAN HARGA DI SAAT HIGH SEASON & HARGA BISA BERUBAH SEWAKTU WAKTU
 
 ---
-
