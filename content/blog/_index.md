@@ -1,14 +1,14 @@
 ---
-title: A Blog That Works
+title: Obyek Wisata Jogja Yang Memukau Semuanya
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  Ini adalah daftar oyek wisata di jogja dan Daerah Istimewa Yogyakarta
+  Sekitarnya
+author: "BAT"
 show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only
 show_author_byline: false
 show_post_date: false
-show_button_links: true
+show_button_links: false
 # for listing page layout
 layout: list # list, list-sidebar, list-grid
 
