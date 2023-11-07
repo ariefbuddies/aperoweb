@@ -4,13 +4,13 @@ description: |
   This is a fully featured blog that supports categories, 
   tags, series, and pagination.
 author: "The R Markdown Team @RStudio"
-show_post_thumbnail: true
+show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only
 show_author_byline: false
 show_post_date: false
 show_button_links: true
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
