@@ -21,11 +21,7 @@ layout: single
 
 ## HOMESTAY 750 Ribu Permalam
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/ghtamu.jpg?w=400&radius=25&force_format=png&)
-### Lepas Kunci 🗝️
-| Durasi  | Harga |
-| ----- | --- |
-| 6 Jam   | **350 Ribu**  |
-| PerHari | **450 Ribu** |
+> * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
 
 ---
 
