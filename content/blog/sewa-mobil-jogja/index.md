@@ -5,6 +5,7 @@ excerpt: "Sewa Mobil Jogja menyewakan mobil murah."
 date: 2023-11-05
 author: "BAT"
 draft: false
+show_post_thumbnail: false
 tags:
   - mobil
 categories:
