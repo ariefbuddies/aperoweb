@@ -35,7 +35,7 @@ layout: single
 ---
 
 ## Kamar Deluxe 250 Ribu Permalam ( 2 Orang M🅰️x)
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg?w=240&radius=20&force_format=png&#center)
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k3.jpg?w=240&radius=20&force_format=png&#center)
 ## FASILITAS
 > * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
 > * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Dalam (Air Panas)
@@ -45,7 +45,7 @@ layout: single
 ---
 
 ## Kamar Standar 165 Ribu Permalam ( 2 Orang M🅰️x)
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k10.jpg?w=240&radius=20&force_format=png&#center)
 ## FASILITAS
 > * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
 > * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Dalam (Air Panas)
