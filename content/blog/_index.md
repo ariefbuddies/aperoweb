@@ -1,7 +1,7 @@
 ---
-title: Obyek Wisata Jogja Yang Memukau Semuanya
+title: Obyek Wisata Jogja Yang Memukau Semuany🅰️
 description: |
-  Ini adalah daftar oyek wisata di jogja dan Daerah Istimewa Yogyakarta
+  Ini adalah daftar obyek wisata di Jogja dan Daerah Istimewa Yogyakart🅰️
   Sekitarnya
 author: "BAT"
 show_post_thumbnail: true
