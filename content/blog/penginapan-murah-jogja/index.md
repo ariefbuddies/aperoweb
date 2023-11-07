@@ -37,18 +37,13 @@ layout: single
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg?w=240&radius=20&force_format=png&#center)
 ## FASILITAS
 > * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
+> * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Dalam (Air Panas)
+> * Extra Bed/person Rp 50.000 / Malam
+> * Extra Time Rp. 25.000 per jam (selama persediaan kamar masih ada)
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
-    
-> 
-> * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
-    
-> 
-> * Perhari **Call/WA**
 ---
 
-## Avanza Veloz Manu:a:l
+## Kamar Deluxe 250 Ribu Permalam ( 2 Orang M🅰️x)
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key:
     
