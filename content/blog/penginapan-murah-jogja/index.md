@@ -1,6 +1,6 @@
 ---
 title: "Penginapan Murah Jogja"
-subtitle: "Penginapan Murah Jogja menyewakan kamar."
+subtitle: "Penginapan Murah Jogja menyewakan kamar dan homestay / guesthouse."
 excerpt: "Penginapan Murah Jogja menyewakan kamar murah."
 date: 2023-11-05
 author: "BAT"
@@ -12,5 +12,5 @@ tags:
 categories:
   - penginapan murah jogja
 # layout options: single, single-sidebar
-layout: single-sidebar
+layout: single
 ---
