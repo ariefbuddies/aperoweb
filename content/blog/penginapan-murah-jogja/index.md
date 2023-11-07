@@ -9,6 +9,7 @@ tags:
   - kamar
   - homestay
   - guesthouse
+  - room
 categories:
   - penginapan murah jogja
 # layout options: single, single-sidebar
@@ -43,98 +44,12 @@ layout: single
 
 ---
 
-## Kamar Deluxe 250 Ribu Permalam ( 2 Orang M🅰️x)
+## Kamar Standar 165 Ribu Permalam ( 2 Orang M🅰️x)
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key:
-    
-| Durasi  | Harga |
-| ----- | --- |
-| 12 Jam   | **250 Ribu**  |
-| 24 Jam | **300 Ribu** |
+## FASILITAS
+> * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
+> * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Dalam (Air Panas)
+> * Extra Bed/person Rp 50.000 / Malam
+> * Extra Time Rp. 16.500 per jam (selama persediaan kamar masih ada)
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
-    
-> 
-> * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
-    
->
-> * Perhari **Call/WA**
----
-
-## Avanza Veloz M:a:tic 
-![img](https://aceapugtar.cloudimg.io/gigitdemo.my.id/veloz-matic.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key:
-    
-| Durasi  | Harga |
-| ----- | --- |
-| 12 Jam   | **275 Ribu**  |
-| 24 Jam | **325 ribu** |
-
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
-    
-> 
-> * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
-    
-> 
-> * Perhari **Call/WA**
-    
----
-
-## Honda Brio CBU M:a:tic
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-cbu-matic-2014.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key: 
-    
-| Durasi  | Harga |
-| ----- | --- |
-| 12 Jam   | **275 Ribu**  |
-| 24 Jam | **325 Ribu** |
-
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
-    
-> 
-> * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
-    
-> 
-> * Perhari **Call/WA**
----
-
-## All New Honda Brio M:a:tic
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key: 
-    
-| Durasi  | Harga |
-| ----- | --- |
-| 12 Jam   | **275 Ribu**  |
-| 24 Jam | **325 Ribu** |
-
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
-    
-> 
-> * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
-    
->
-> * Perhari **Call/WA**
----
-
-## Mobilio Manu:a:l
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/mobilio-manual-2017.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key: 
-    
-| Durasi  | Harga |
-| ----- | --- |
-| 12 Jam | **250 Ribu**  |
-| 24 Jam | **300 Ribu** |
-
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
-    
-> 
-> * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
-    
-> 
-> * Perhari **Call/WA**
 ---
