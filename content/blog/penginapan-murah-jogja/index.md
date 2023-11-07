@@ -16,6 +16,7 @@ layout: single
 ---
 # Penginapan Murah Jogja IstimeW:a:h
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5a4df3448bb6d-1-650x450.jpg?w=400&radius=25&force_format=png&)
+<b>Dateng ke jogja ga punya temen ato sodara buat menginap, yah terpaksa deh cari penginapan. Di Bening Guest House kami menyediakan kamar yang terdekat dengan UGM dan UNY jogja, lalu kamar dan homestay dengan harga permalam mulai dari 165 ribu saja dan bisa kamu booking juga via aplikasi Traveloka!</b>
 <hr>
 
 ## WULING AIR EV LR(new)
