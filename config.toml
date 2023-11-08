@@ -127,17 +127,17 @@ enableEmoji = true
     url = "/blog/sewa-mobil-jogja/"
     weight = 1
   [[menu.header]]
-    name = "🛵[ Rental Motor Jogja ]"
+    name = "🛵[ Rent🅰️l Motor Jogja ]"
     title = "Rental Motor Jogja"
     url = "/blog/rental-motor-jogja/"
     weight = 2
   [[menu.header]]
-    name = "[ Penginapan Murah Jogja ]🏡"
+    name = "[ Penginapan Mur🅰️h Jogja ]🏡"
     title = "Rental Motor Jogja"
     url = "/blog/penginapan-murah-jogja/"
     weight = 3
   [[menu.header]]
-    name = "🏖️[ Obyek Wisata Jogja ]"
+    name = "🏖️[ Obyek Wisat🅰️ Jogja ]"
     title = "Obyek Wisata Jogja"
     url = "/blog/"
     weight = 4
