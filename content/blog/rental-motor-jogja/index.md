@@ -13,7 +13,7 @@ categories:
 # layout options: single, single-sidebar
 layout: single
 ---
-# <center>Sewa Motor Jogj:a:</center> 
+# <center>Rental Motor Jogj:a:</center> 
 ## Daftar Motor Rental :construction: 🛵
 ## Honda Beat New Street
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/beat-trail.jpg?w=400&radius=25&force_format=png&)
