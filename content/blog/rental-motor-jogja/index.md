@@ -14,8 +14,8 @@ categories:
 layout: single
 ---
 # <center>Sewa Motor Jogj:a:</center> 
-## Daftar Mobil :construction: 
-## All New Avanza :a:utomatic:love_letter: 
+## Daftar Motor Rental :construction: 
+## Honda Beat New Street
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.webp?w=200&radius=20&force_format=png&#center)
 ### Lepas :key: 
     
@@ -34,7 +34,7 @@ layout: single
 > * 24 Jam ==525 rb==    
 ---
 
-## All New Avanza M:a:nual:love_letter: 
+## Honda Genio
 ![img](https://aceapugtar.cloud# <center>Sewa Mobil Jogj:a:</center> 
 ## Daftar Mobil :construction: 
 ## All New Avanza :a:utomatic:love_letter: 
@@ -56,7 +56,7 @@ layout: single
 > * 24 Jam ==525 rb==    
 ---
 
-## All New Avanza M:a:nual:love_letter: 
+## Honda Beat 110
 ![img](https://aceapugtar.cloudimg.img.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m3.webp?w=200&radius=20&force_format=png&#center)
 ### Lepas :key: # <center>Sewa Mobil Jogj:a:</center> 
 ## Daftar Mobil :construction: 
@@ -79,7 +79,7 @@ layout: single
 > * 24 Jam ==525 rb==    
 ---
 
-## All New Avanza M:a:nual:love_letter: 
+## Honda Scoopy 
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m3.webp?w=200&radius=20&force_format=png&#center)
     
 > [color=#07ef58] 
@@ -96,3 +96,10 @@ layout: single
 > * 10 Jam ==425 rb==
 > * 24 Jam ==525 rb==    
 ---
+
+## Honda Vario 125
+
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m3.webp?w=200&radius=20&force_format=png&#center)
+    
+> [color=#07ef58] 
+> * 12 Jam ==250 rb==
