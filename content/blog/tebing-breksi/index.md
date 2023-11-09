@@ -1,7 +1,17 @@
 ---
 title: "Tebing Breksi"
-date: 2022-12-01
-description : "Tebing breksi"
+subtitle: "Tebing Breksi."
+excerpt: "Tebing Breksi."
+date: 2023-11-08
+author: "BAT"
+show_post_thumbnail: true
+draft: false
+tags:
+  - sobyek
+categories:
+  - obyek wisata jogja
+# layout options: single, single-sidebar
+layout: single
 ---
 
 ![img](image: https://aceapugtar.cloudimg.io/beningabaditransport.com/uploads/tebing-breksi-wisata-murah-jogja.jpg?h=300&radius=25&force_format=png&)
