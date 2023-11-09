@@ -16,7 +16,7 @@ layout: single
 # <center>Sewa Motor Jogj:a:</center> 
 ## Daftar Motor Rental :construction: 
 ## Honda Beat New Street
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.webp?w=200&radius=20&force_format=png&#center)
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/beat-trail.jpg?w=400&radius=25&force_format=png&)
 ### Lepas :key: 
     
 > [color=#07ef58] 
@@ -38,7 +38,7 @@ layout: single
 ![img](https://aceapugtar.cloud# <center>Sewa Mobil Jogj:a:</center> 
 ## Daftar Mobil :construction: 
 ## All New Avanza :a:utomatic:love_letter: 
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.webp?w=200&radius=20&force_format=png&#center)
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/genio.jpg?w=400&radius=25&force_format=png&)
 ### Lepas :key: 
     
 > [color=#07ef58] 
@@ -57,7 +57,7 @@ layout: single
 ---
 
 ## Honda Beat 110
-![img](https://aceapugtar.cloudimg.img.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m3.webp?w=200&radius=20&force_format=png&#center)
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/fjimg-20191224-145508.png?w=400&radius=25&force_format=png&)
 ### Lepas :key: # <center>Sewa Mobil Jogj:a:</center> 
 ## Daftar Mobil :construction: 
 ## All New Avanza :a:utomatic:love_letter: 
@@ -80,8 +80,7 @@ layout: single
 ---
 
 ## Honda Scoopy 
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m3.webp?w=200&radius=20&force_format=png&#center)
-    
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/scoopy.jpg?w=400&radius=25&force_format=png&)
 > [color=#07ef58] 
 > * 12 Jam ==250 rb==
 > * 24 Jam ==300 rb==
@@ -99,7 +98,7 @@ layout: single
 
 ## Honda Vario 125
 
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m3.webp?w=200&radius=20&force_format=png&#center)
+![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/vario.jpg?w=400&radius=25&force_format=png&)
     
 > [color=#07ef58] 
 > * 12 Jam ==250 rb==
