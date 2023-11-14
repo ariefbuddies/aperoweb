@@ -56,7 +56,7 @@ layout: single
 ---
 
 <!-- blank line -->
-  <iframe width="290" height="315" src="https://ariefbuddies.github.io/reveal/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="290" height="420" src="https://ariefbuddies.github.io/reveal/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <!-- blank line -->
 
 
