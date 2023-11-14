@@ -54,3 +54,11 @@ layout: single
 > * Extra Time Rp. 16.500 per jam (selama persediaan kamar masih ada)
 
 ---
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
