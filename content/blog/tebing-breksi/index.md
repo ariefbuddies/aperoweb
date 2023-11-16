@@ -1,7 +1,7 @@
 ---
 title: "Tebing Breksi"
-subtitle: "Tebing Breksi."
-excerpt: "Tebing Breksi."
+subtitle: "Tebing Breksi Yogyakarta"
+excerpt: "Tebing Breksi Jogja"
 date: 2023-11-08
 author: "BAT"
 show_post_thumbnail: true
