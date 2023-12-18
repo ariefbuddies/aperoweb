@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Sewa Mobil Jogja"
   favicon = "/aperoweb/img/favicon.ico"
   logo = "/aperoweb/img/android-chrome-512x512.png"
-  mainSections = ["blog"]
+  mainSections = ["home"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
