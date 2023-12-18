@@ -1,7 +1,7 @@
 baseURL = "https://ariefbuddies.github.io/aperoweb/"
 theme = "apero"
 languageCode = "en"
-title = "Sewa Mobil Jogja"
+title = "Sewa Mobil Jogja di Bening Abadi Transport"
 author = "Bening Abadi"
 copyright = "Bening Abadi Transport 2024" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
