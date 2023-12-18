@@ -96,7 +96,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "/blog/index.xml"
+      url       = "/aperoweb/blog/index.xml"
 
 [taxonomies]
   category = "categories"
