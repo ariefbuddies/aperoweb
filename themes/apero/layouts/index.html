@@ -19,7 +19,15 @@
         <button></button>
 </div>
          </div>
-        <div class="swiffy-slider slider-nav-autoplay slider-nav-round slider-nav-animation slider-nav-animation-fadein">
+        
+</div>
+        {{ if .Params.show_social_links }}{{ partial "shared/social-links.html" . }}{{ end }}
+        {{ if .Params.show_action_link }}<a class="mt4 action {{ .Params.action_type }}" href="{{ .Params.action_link | relURL }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
+      </div>
+      <div class="tr w-50-l {{ if .Params.image_left }}ml4{{ else }}mr4{{ end }}">
+      {{ with .Params.images }}
+        {{ range first 1 . }}<img class="mv0 w-70-m" src="{{ . }}"/>{{ end }}
+      <div class="swiffy-slider slider-nav-autoplay slider-nav-round slider-nav-animation slider-nav-animation-fadein">
     <ul class="slider-container">
         <li class="">
             <div class="card rounded-0 h-100">
@@ -78,14 +86,6 @@
         <button aria-label="Go to slide" class="active"></button>
         <button aria-label="Go to slide" class=""></button>
     </div>
-</div>
-        {{ if .Params.show_social_links }}{{ partial "shared/social-links.html" . }}{{ end }}
-        {{ if .Params.show_action_link }}<a class="mt4 action {{ .Params.action_type }}" href="{{ .Params.action_link | relURL }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
-      </div>
-      <div class="tr w-50-l {{ if .Params.image_left }}ml4{{ else }}mr4{{ end }}">
-      {{ with .Params.images }}
-        {{ range first 1 . }}<img class="mv0 w-70-m" src="{{ . }}"/>{{ end }}
-      {{ end }}
       </div>
                <hr>
   </section>
