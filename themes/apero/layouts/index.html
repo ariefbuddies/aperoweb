@@ -27,6 +27,7 @@
       <div class="tr w-50-l {{ if .Params.image_left }}ml4{{ else }}mr4{{ end }}">
       {{ with .Params.images }}
         {{ range first 1 . }}<img class="mv0 w-70-m" src="{{ . }}"/>{{ end }}
+        {{ end }}
       <div class="swiffy-slider slider-nav-autoplay slider-nav-round slider-nav-animation slider-nav-animation-fadein">
     <ul class="slider-container">
         <li class="">
