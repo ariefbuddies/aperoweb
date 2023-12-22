@@ -15,6 +15,5 @@ action_type: text # text, button
 type: home
 ---
 
-Test
 ** index doesn't contain a body, just front matter above.
 See index.html in the layouts folder **
