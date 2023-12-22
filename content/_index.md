@@ -5,8 +5,8 @@ description: "Sejak dahulu kala Bening Abadi Transport telah berkecimpung di bid
 Sewa Mobil Jogja Bening Abadi Transport adalah tempat sewa mobil paling asyik se Jogja. From jogja with...🫶"
 images:
   - img/revoir.jpg
-image_left: true
-text_align_left: false
+image_left: false
+text_align_left: true
 show_social_links: false # specify social accounts in site config
 show_action_link: true
 action_link: /aperoweb/blog/sewa-mobil-jogja/
