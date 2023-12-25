@@ -5,7 +5,9 @@ description: "Candi ijo"
 tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 
-![img]https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/candi-ijo.JPG?h=300&radius=25&force_format=png&
+<img src="[candi-ijo.JPG](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/candi-ijo.JPG?h=300&radius=25&force_format=png&)"
+     alt="Candi Ijo"
+     style="float: left; margin-right: 10px;" />
 
 Setelah mengunjungi tebing breksi, anda bisa langsung lurus keatas menuju Candi Ijo, sebuah kompleks candi hindu, terletak di 4 km sebelah selatan Candi Boko. Candi Ijo termasuk salah satu candi yang tertinggi di DIY. Candi Ijo, atau yang dikenal juga sebagai Candi Ijo Temple, adalah salah satu situs sejarah yang terletak di Yogyakarta, Indonesia. Situs ini menjadi tujuan wisata yang populer bagi para wisatawan yang ingin menikmati keindahan arsitektur candi dan sejarah yang menghampar di Yogyakarta.
 
