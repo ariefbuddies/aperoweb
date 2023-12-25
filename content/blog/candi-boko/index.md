@@ -1,12 +1,13 @@
 ---
 title: "Candi Boko"
 date: 2023-01-01
-description : "Candi Boko Yogyakarta"
-image: https://aceapugtar.cloudimg.io/gigitdemo.my.id/Candi%20Boko.jpg?h=300&radius=25&force_format=png&
+description: "Candi Boko Yogyakarta" 
 tags: ["sewa mobil jogja", "obyek wisata"]
 ---
 
-CANDI BOKO
+<img src="https://aceapugtar.cloudimg.io/gigitdemo.my.id/Candi%20Boko.jpg?h=300&radius=25&force_format=png&"
+     alt="Candi Boko"
+     style="float: left; margin-right: 10px;" />
 
 Candi Boko adalah salah satu situs sejarah di Yogyakarta, Indonesia, yang merupakan bekas istana kerajaan Mataram Kuno. Candi ini terletak sekitar 3 kilometer dari situs Candi Prambanan dan menjadi salah satu tujuan wisata populer di Yogyakarta.
 
