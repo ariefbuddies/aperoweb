@@ -3,13 +3,13 @@ title: Obyek Wisata Jogja Yang Memukau Semuany🅰️
 description: |
   Ini adalah daftar obyek wisata di Jogja dan Daerah Istimewa Yogyakart🅰️ dan Sekitarnya yang bisa anda kunjungi selama di Jogja.
 author: "BAT"
-show_post_thumbnail: false
+show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: false
 show_post_date: false
 show_button_links: false
 # for listing page layout
-layout: list-grid # list, list-sidebar, list-grid
+layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
