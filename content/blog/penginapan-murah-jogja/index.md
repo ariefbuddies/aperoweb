@@ -2,7 +2,7 @@
 title: "Penginapan Murah Jogja"
 subtitle: "Penginapan Murah Jogja menyewakan kamar dan homestay / guesthouse."
 excerpt: "Penginapan Murah Jogja menyewakan kamar murah."
-date: 2023-11-05
+date: 2022-11-27
 author: "BAT"
 show_post_thumbnail: false
 draft: false
