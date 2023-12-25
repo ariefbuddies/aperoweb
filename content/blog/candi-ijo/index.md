@@ -2,6 +2,7 @@
 title: "Candi Ijo"
 date: 2022-12-01
 description : "Candi ijo"
+show_post_thumbnail: true
 image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/candi-ijo.JPG?h=300&radius=25&force_format=png&
 tags: ["sewa mobil jogja", "lepas kunci"]
 ---
