@@ -17,11 +17,6 @@
         <li class="slide-visible"><img src="https://aceapugtar.cloudimg.io/beningabaditransport.com/images/wuling.jpg" style="max-width: 320px; height: 280px; display: block;"></li>
          <li class="slide-visible"><img src="https://aceapugtar.cloudimg.io/beningabaditransport.com/images/wuling-price.jpg" style="max-width: 320px; height: 280px; display: block;"></li>
     </ul>
-    <div class="slider-indicators">
-        <button class="active"></button>
-        <button></button>
-        <button></button>
-</div>
          </div>
       {{ partial "shared/social-links.html" . }}
       {{ if .Params.show_action_link }}<a class="mt4 action {{ .Params.action_type }}" href="{{ .Params.action_link | relURL }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
