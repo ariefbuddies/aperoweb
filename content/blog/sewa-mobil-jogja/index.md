@@ -21,12 +21,14 @@ layout: single
 <hr>
 
 ## WULING AIR EV LR(new)
+
  <div align="center" class="swiffy-slider slider-nav-autoplay slider-item-nogap slider-item-snapstart slider-item-show2-sm slider-item-nosnap-touch slider-nav-round slider-nav-dark slider-nav-sm slider-nav-outside slider-nav-autohide slider-nav-autoplay slider-indicators-square slider-indicators-highlight slider-nav-animation slider-nav-animation-scaleup slider-nav-animation-slow" data-slider-nav-autoplay-interval="3500">
                <ul class="slider-container">
         <li class="slide-visible"><img src="https://aceapugtar.cloudimg.io/beningabaditransport.com/images/wuling.jpg" style="max-width: 320px; height: 280px; display: block;"></li>
          <li class="slide-visible"><img src="https://aceapugtar.cloudimg.io/beningabaditransport.com/images/wuling-price.jpg" style="max-width: 320px; height: 280px; display: block;"></li>
     </ul>
          </div>
+         
 ### Lepas Kunci 🗝️
 | Durasi  | Harga |
 | ----- | --- |
