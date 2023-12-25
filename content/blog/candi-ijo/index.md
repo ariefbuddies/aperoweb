@@ -1,7 +1,7 @@
 ---
 title: "Candi Ijo"
 date: 2022-12-01
-description: "Candi ijo"
+description: "Candi Ijo Jogja"
 tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 
