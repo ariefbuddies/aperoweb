@@ -2,7 +2,7 @@
 title: "Rental Motor Jogja"
 subtitle: "Rental Motor Jogja menyewakan motor."
 excerpt: "Rental Motor Jogja menyewakan motor murah."
-date: 2023-11-05
+date: 2022-11-28
 author: "BAT"
 show_post_thumbnail: false
 draft: false
