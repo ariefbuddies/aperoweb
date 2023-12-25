@@ -5,7 +5,7 @@ description: "Candi ijo"
 tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 
-<img src="[candi-ijo.JPG](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/candi-ijo.JPG?h=300&radius=25&force_format=png&)"
+<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/candi-ijo.JPG?h=300&radius=25&force_format=png&"
      alt="Candi Ijo"
      style="float: left; margin-right: 10px;" />
 
