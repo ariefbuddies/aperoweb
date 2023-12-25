@@ -1,8 +1,7 @@
 ---
 title: Obyek Wisata Jogja Yang Memukau Semuany🅰️
 description: |
-  Ini adalah daftar obyek wisata di Jogja dan Daerah Istimewa Yogyakart🅰️
-  Sekitarnya
+  Ini adalah daftar obyek wisata di Jogja dan Daerah Istimewa Yogyakart🅰️ dan Sekitarnya
 author: "BAT"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
@@ -32,13 +31,13 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
-  show_author_byline: true
-  show_post_date: true
-  show_comments: true # see site config to choose Disqus or Utterances
+  author: "BAT"
+  show_author_byline: false
+  show_post_date: false
+  show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
-    text_link_label: View recent posts
+    text_link_label: Posting sebelumnya
     text_link_url: /blog/
     show_sidebar_adunit: false # show ad container
 ---
