@@ -1,11 +1,13 @@
 ---
 title: "Batu Papal"
 date: 2022-12-01
-description : "Batu Papal"
-image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/batu-papal-yogyakarta.jpg?h=300&radius=25&force_format=png&
+description: "Batu Papal"
 tags: ["sewa mobil jogja", "obyek wisata jogja"]
 ---
-Batu Papal
+
+<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/candi-ijo.JPG?h=300&radius=25&force_format=png&"
+     alt="Batu Papal"
+     style="float: left; margin-right: 10px;" />
 
 Setelah dari Candi Ijo, perjalanan anda bisa diteruskan menuju puncak Batu Papal, salah satu tempat di Jogja yang memiliki view indah untuk melihat matahari terbit.
 
