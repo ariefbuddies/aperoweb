@@ -1,12 +1,14 @@
 ---
 title: "Tebing Breksi"
 date: 2022-11-30
-description : "Tebing Breksi"
-image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tebing-breksi-wisata-murah-jogja.jpg?h=300&radius=25&force_format=png&
+description: "Tebing Breksi Jogja"
+image: 
 tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 
-**TEBING BREKSI**
+<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tebing-breksi-wisata-murah-jogja.jpg?h=300&radius=25&force_format=png&"
+     alt="Tebing Breksi"
+     style="float: left; margin-right: 10px;" />
 
 Salah satu destinasi favorit di Yogyakarta saat ini, terletak di Kabupaten Sleman, DIY. Berawal dari tebing tebing kapur yang dipahat, tebing ini sekarang menjadi salah satu tujuan wisata teramai di Yogyakarta
 
