@@ -2,7 +2,7 @@
 title: "Sewa Mobil Jogja"
 subtitle: "Sewa Mobil Jogja menyew🅰️kan mobil."
 excerpt: "Sewa Mobil Jogja menyewakan mobil murah."
-date: 2023-11-05
+date: 2022-11-29
 author: "BAT"
 draft: false
 show_post_thumbnail: false
