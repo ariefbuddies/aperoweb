@@ -34,7 +34,7 @@ enableEmoji = true
   favicon = "/aperoweb/img/favicon.ico"
   logo = "/aperoweb/img/logonewbening.png"
   mainSections = ["blog"]
-  navallcaps = true
+  navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
@@ -142,22 +142,22 @@ enableEmoji = true
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
-    disable = false
+    disable = true
     anonymizeIP = true
     respectDoNotTrack = true
   [privacy.instagram]
     disable = false
     simple = true
   [privacy.twitter]
-    disable = false
+    disable = true
     enableDNT = true
     simple = false
   [privacy.vimeo]
-    disable = false
+    disable = true
     enableDNT = true
     simple = true
   [privacy.youtube]
-    disable = false
+    disable = true
     privacyEnhanced = true
