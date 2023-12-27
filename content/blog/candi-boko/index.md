@@ -5,7 +5,7 @@ description: "Candi Boko Yogyakarta"
 tags: ["sewa mobil jogja", "obyek wisata"]
 ---
 
-<img src="https://aceapugtar.cloudimg.io/gigitdemo.my.id/Candi%20Boko.jpg?h=300&radius=25&force_format=png&"
+<img src="https://aceapugtar.cloudimg.io/gigitdemo.my.id/Candi%20Boko.jpg?w=200&radius=15&force_format=png&"
      alt="Candi Boko"
      style="float: left; margin-right: 10px;" />
 
