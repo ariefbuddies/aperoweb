@@ -6,7 +6,7 @@ image:
 tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 
-<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tebing-breksi-wisata-murah-jogja.jpg?h=300&radius=25&force_format=png&"
+<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/tebing-breksi-wisata-murah-jogja.jpg?w=200&radius=18&force_format=png&"
      alt="Tebing Breksi"
      style="float: left; margin-right: 10px;" />
 
