@@ -144,14 +144,14 @@ enableEmoji = true
   [privacy.disqus]
     disable = true
   [privacy.googleAnalytics]
-    disable = true
+    disable = false
     anonymizeIP = true
     respectDoNotTrack = true
   [privacy.instagram]
     disable = true
     simple = false
   [privacy.twitter]
-    disable = true
+    disable = false
     enableDNT = true
     simple = false
   [privacy.vimeo]
