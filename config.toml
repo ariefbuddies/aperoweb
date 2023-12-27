@@ -1,5 +1,5 @@
-baseURL = "https://ariefbuddies.github.io/aperoweb/"
-theme = "hugo-apero"
+baseURL = "/"
+theme = "apero"
 languageCode = "en"
 title = "Sewa Mobil Jogja Bening Abadi Transport"
 author = "BAT"
