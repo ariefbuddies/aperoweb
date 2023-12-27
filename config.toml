@@ -97,23 +97,23 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Sewa Mobil Jogja"
+    name = "[Sewa Mobil]"
     title = "Sewa Mobil"
     url = "/blog/sewa-mobil-jogja"
     weight = 1
   [[menu.header]]
-    name = "Rental Motor Jogja"
-    title = "Rental Motor"
+    name = "[Rental Motor]"
+    title = "Rental Motor Jogja"
     url = "/blog/rental-motor-jogja"
     weight = 2
   [[menu.header]]
-    name = "Penginapan Murah"
-    title = "Penginapan"
+    name = "[Penginapan Murah]"
+    title = "Penginapan Murah Jogja"
     url = "/blog/penginapan-murah-jogja"
     weight = 3
   [[menu.header]]
-    name = "Obyek Wisata Jogja"
-    title = "Obyek Wisata"
+    name = "[Obyek Wisata]"
+    title = "Obyek Wisata Jogja"
     url = "/blog/"
     weight = 4
 
