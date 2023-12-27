@@ -5,7 +5,7 @@ description: "Batu Papal Jogja"
 tags: ["sewa mobil jogja", "obyek wisata jogja"]
 ---
 
-<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/batu-papal-yogyakarta.jpg?h=300&radius=25&force_format=png&"
+<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/batu-papal-yogyakarta.jpg?w=200&radius=15&force_format=png&"
      alt="Batu Papal"
      style="float: left; margin-right: 10px;" />
 
