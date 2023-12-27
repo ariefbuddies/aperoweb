@@ -9,7 +9,7 @@ disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 5
+paginate = 4
 preserveTaxonomyNames = false
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "BAT"
   orgLocal = "Anywhere"
   description = "Sewa Mobil Jogja Murah Mahasiswa Pelajar Umum"
-  favicon = "/img/favicon.ico"
-  logo = "/img/logonewbening.png"
+  favicon = "/aperoweb/img/favicon.ico"
+  logo = "/aperoweb/img/logonewbening.png"
   mainSections = ["blog"]
   navallcaps = false
   # show/hide social icons in site header & footer
@@ -97,30 +97,25 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
-    url = "/about/"
+    name = "Sewa Mobil Jogja"
+    title = "Sewa Mobil"
+    url = "/blog/sewa-mobil-jogja"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
+    name = "Rental Motor Jogja""
+    title = "Rental Motor"
+    url = "/blog/rental-motor-jogja"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Penginapan Murah"
+    title = "Penginapan"
+    url = "/blog/penginapan-murah-jogja"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Obyek Wisata Jogja"
+    title = "Obyek Wisata"
+    url = "/blog/"
     weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
