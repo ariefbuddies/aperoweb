@@ -1,6 +1,6 @@
 ---
 title: "Candi Boko"
-date: 2023-01-01
+date: 2023-12-02
 description: "Candi Boko Yogyakarta" 
 tags: ["sewa mobil jogja", "obyek wisata"]
 ---
