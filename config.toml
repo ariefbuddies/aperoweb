@@ -142,22 +142,22 @@ enableEmoji = true
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
   [privacy.disqus]
-    disable = true
+    disable = false
   [privacy.googleAnalytics]
     disable = false
     anonymizeIP = true
     respectDoNotTrack = true
   [privacy.instagram]
     disable = false
-    simple = false
+    simple = true
   [privacy.twitter]
-    disable = true
+    disable = false
     enableDNT = true
     simple = false
   [privacy.vimeo]
-    disable = true
+    disable = false
     enableDNT = true
     simple = true
   [privacy.youtube]
-    disable = true
+    disable = false
     privacyEnhanced = true
