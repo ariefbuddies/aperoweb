@@ -18,7 +18,6 @@
          <li class="slide-visible"><img src="https://aceapugtar.cloudimg.io/beningabaditransport.com/images/wuling-price.jpg" style="max-width: 240px; height: 180px; display: block;"></li>
     </ul>
          </div>
-      {{ partial "shared/social-links.html" . }}
       {{ if .Params.show_action_link }}<a class="mt4 action {{ .Params.action_type }}" href="{{ .Params.action_link | relURL }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
         <div align="center" class="swiffy-slider slider-item-nosnap slider-item-nosnap-touch slider-nav-round slider-nav-animation slider-nav-animation-zoomout slider-item-nogap slider-nav-visible">
     <ul class="slider-container">
@@ -90,6 +89,7 @@
         <button aria-label="Go to slide" class=""></button>
     </div>
       </div>
+                  {{ partial "shared/social-links.html" . }}
                <hr>
   </section>
 </main>
