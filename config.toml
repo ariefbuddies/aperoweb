@@ -1,6 +1,6 @@
 baseURL = "https://ariefbuddies.github.io/aperoweb/"
 theme = "apero"
-languageCode = "en"
+languageCode = "id-ID"
 title = "Sewa Mobil Jogja di Bening Abadi Transport"
 author = "Bening Abadi"
 copyright = "Bening Abadi Transport 2024" # set to override the auto generated copyright using org info and now year
@@ -102,22 +102,22 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "👉 Sewa Mobil 🚗"
+    name = "Sewa Mobil"
     title = "Sewa Mobil Jogja"
     url = "/blog/sewa-mobil-jogja/"
     weight = 1
   [[menu.header]]
-    name = "👉 Rental Motor 🛵"
+    name = "Rental Motor"
     title = "Rental Motor Jogja"
     url = "/blog/rental-motor-jogja/"
     weight = 2
   [[menu.header]]
-    name = "👉 Penginapan 🏡"
+    name = "Penginapan"
     title = "Rental Motor Jogja"
     url = "/blog/penginapan-murah-jogja/"
     weight = 3
   [[menu.header]]
-    name = "👉 Obyek Wisat🅰️🏖️"
+    name = "Obyek Wisata"
     title = "Obyek Wisata Jogja"
     url = "/blog/"
     weight = 4
