@@ -148,7 +148,7 @@ enableEmoji = true
     anonymizeIP = true
     respectDoNotTrack = true
   [privacy.instagram]
-    disable = true
+    disable = false
     simple = true
   [privacy.twitter]
     disable = true
