@@ -18,7 +18,7 @@ enableEmoji = true
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark.renderer]
     unsafe = true  # Enable user to embed HTML snippets in Markdown content.
-    hardwraps = false 
+    hardwraps = true 
   [markup.tableOfContents]
     startLevel = 2
     endLevel = 2
@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Sewa Mobil Jogja Murah Mahasiswa Pelajar Umum"
   favicon = "/img/favicon.ico"
   logo = "/img/logonewbening.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog"]
   navallcaps = false
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -41,9 +41,9 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  # sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  # twitter = "apreshill"
   
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
