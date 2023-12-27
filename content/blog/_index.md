@@ -1,7 +1,7 @@
 ---
-title: Obyek Wisata Jogja Yang Memukau Semuany🅰️
+title: Obyek Wisata & Kulineran Jogja Yang Memukau Semuany🅰️✅
 description: |
-  Ini adalah daftar obyek wisata di Jogja dan Daerah Istimewa Yogyakart🅰️ dan Sekitarnya yang bisa anda kunjungi selama di Jogja.
+  Ini adalah daftar obyek wisata dan tempat kuliner asyik dan enak di Jogja dan  daerah sekitarnya yang bisa anda kunjungi selama di Jogja. Awass 👅 bergoyang!!  
 author: "BAT"
 show_post_thumbnail: true
 thumbnail_left: false # for list-sidebar only
