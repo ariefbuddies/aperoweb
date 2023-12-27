@@ -19,7 +19,7 @@
     </ul>
          </div>
       {{ if .Params.show_action_link }}<a class="mt4 action {{ .Params.action_type }}" href="{{ .Params.action_link | relURL }}">{{ .Params.action_label | safeHTML }}</a>{{ end }}
-        <div align="center" class="swiffy-slider slider-item-nosnap slider-item-nosnap-touch slider-nav-round slider-nav-animation slider-nav-animation-scaleup slider-item-nogap slider-nav-visible">
+        <div align="center" class="swiffy-slider slider-item-nosnap slider-item-nosnap-touch slider-nav-round slider-nav-animation slider-nav-animation-scaleup slider-item-nogap slider-nav-visible slider-nav-autoplay slider-nav-animation slider-nav-animation-scaleup" data-slider-nav-autoplay-interval="3000" ">
     <ul class="slider-container">
         <li class="slide-visible">
             <div>
