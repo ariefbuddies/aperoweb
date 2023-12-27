@@ -1,6 +1,6 @@
 ---
 title: "Batu Papal"
-date: 2022-12-01
+date: 2023-12-01
 description: "Batu Papal Jogja"
 tags: ["sewa mobil jogja", "obyek wisata jogja"]
 ---
