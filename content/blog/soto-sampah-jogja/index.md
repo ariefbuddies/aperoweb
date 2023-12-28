@@ -5,7 +5,7 @@ description: "The Soto Sampah Jogja"
 tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 
-<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/soto-sampah.jpg?w=200&radius=18&force_format=png&"
+<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/soto-sampah2.jpg?w=200&radius=18&force_format=png&"
      alt="Tebing Breksi"
      style="float: left; margin-right: 10px;" />
 
