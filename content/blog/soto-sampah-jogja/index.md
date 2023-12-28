@@ -9,7 +9,7 @@ tags: ["sewa mobil jogja", "lepas kunci"]
      alt="Tebing Breksi"
      style="float: left; margin-right: 10px;" />
 
-Sampah!!! dengernya aja kita dah il fiil apalagi ni jadi makanan...soto lagi...Berlokasi di Jl. Kranggan No.2, Cokrodiningratan, Kec. Jetis, Kota Yogyakarta, utara Tugu Jogja...harganya terjangkau mahasiswa dan rasanya ga kaleng2. Soto sampah Jogja ini sudah populer sejak tahun 1970, bahkan ada juga yang menyebutnya sejak 1967. Nama awal muncul sebenarnya bukan itu. Akan tetapi soto Simak atau soto becak. Disebut demikian lantaran awalnya para pembelinya adalah para bapak-bapak tukang becak.
+Sampah!!! dengernya aja kita dah il fiil apalagi ni jadi makanan...soto lagi...berlokasi di Jl. Kranggan No.2, Cokrodiningratan, Kec. Jetis, Kota Yogyakarta, utara Tugu Jogja...harganya terjangkau mahasiswa dan rasanya ga kaleng2. Soto sampah Jogja ini sudah populer sejak tahun 1970, bahkan ada juga yang menyebutnya sejak 1967. Nama awal muncul sebenarnya bukan itu. Akan tetapi soto Simak atau soto becak. Disebut demikian lantaran awalnya para pembelinya adalah para bapak-bapak tukang becak.
 
 Hingga pada tahun 2009, menjadi semakin terkenal. Usut punya usut ternyata penamaan tersebut adalah julukan dari para pembelinya. Penggunaan gajih sapi membuat penampakan soto ini terkesan berantakan. sehingga muncullah nama julukan tersebut.Tapi jangan salah, meskipun dengan nama tersebut tapi rasanya juara dan pastinya jadi rebutan para pengunjungnya.
 
