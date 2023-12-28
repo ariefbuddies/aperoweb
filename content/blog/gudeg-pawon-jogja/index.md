@@ -2,7 +2,7 @@
 title: "Gudeg Pawon Jogja"
 date: 2023-12-05
 description: "The Gudeg Pawon Jogja"
-tags: ["sewa mobil jogja", "lepas kunci"]
+tags: ["sewa mobil jogja"]
 ---
 
 <img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/gudeg-pawon.jpg?w=200&radius=18&force_format=png&"
