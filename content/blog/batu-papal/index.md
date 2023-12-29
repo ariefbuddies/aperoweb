@@ -2,7 +2,6 @@
 title: "Batu Papal"
 date: 2023-12-01
 description: "Batu Papal Jogja"
-tags: ["sewa mobil jogja", "obyek wisata jogja"]
 ---
 
 <img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/batu-papal-yogyakarta.jpg?w=200&radius=15&force_format=png&"
