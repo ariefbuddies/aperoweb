@@ -10,7 +10,7 @@ metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
 paginate = 6
-preserveTaxonomyNames = false
+preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
 [markup]
@@ -92,6 +92,10 @@ enableEmoji = true
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.instagram.com/explore/tags/apero/"
+[taxonomies]
+  category = ""
+  series = "series"
+  tag = ""
 [menu]
   # Configure header 
   [[menu.header]]
