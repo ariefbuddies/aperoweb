@@ -94,7 +94,7 @@ enableEmoji = true
       url       = "https://www.instagram.com/explore/tags/apero/"
 [taxonomies]
   category = "categories"
-  series = ""
+  series = "series"
   tag = "tags"
 [menu]
   # Configure header 
