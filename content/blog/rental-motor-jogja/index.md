@@ -6,10 +6,6 @@ date: 2022-11-28
 author: "BAT"
 show_post_thumbnail: false
 draft: false
-tags:
-  - motor
-categories:
-  - rental motor jogja
 # layout options: single, single-sidebar
 layout: single
 ---
