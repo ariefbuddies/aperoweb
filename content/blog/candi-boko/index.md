@@ -2,7 +2,6 @@
 title: "Candi Boko"
 date: 2023-12-02
 description: "Candi Boko Yogyakarta" 
-tags: ["sewa mobil jogja", "obyek wisata"]
 ---
 
 <img src="https://aceapugtar.cloudimg.io/gigitdemo.my.id/Candi%20Boko.jpg?w=200&radius=15&force_format=png&"
