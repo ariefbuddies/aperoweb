@@ -13,7 +13,7 @@ paginate = 6
 preserveTaxonomyNames = false
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
-
+disableKinds = ["licence"]
 [markup]
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark.renderer]
