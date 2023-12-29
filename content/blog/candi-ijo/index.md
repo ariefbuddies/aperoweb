@@ -2,7 +2,6 @@
 title: "Candi Ijo"
 date: 2023-12-03
 description: "Candi Ijo Jogja"
-tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 
 <img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/candi-ijo.JPG?w=200&radius=15&force_format=png&"
