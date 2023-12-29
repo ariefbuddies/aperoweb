@@ -30,8 +30,8 @@ enableEmoji = true
   orgName = "BAT"
   orgLocal = "Anywhere"
   description = "Sewa Mobil Jogja Murah Mahasiswa Pelajar Umum"
-  favicon = "/aperoweb/img/favicon.ico"
-  logo = "/aperoweb/img/logonewbening.png"
+  favicon = "/img/favicon.ico"
+  logo = "/img/logonewbening.png"
   mainSections = ["blog"]
   navallcaps = false
   # show/hide social icons in site header & footer
