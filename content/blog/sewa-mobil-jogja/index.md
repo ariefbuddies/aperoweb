@@ -6,10 +6,6 @@ date: 2022-11-29
 author: "BAT"
 draft: false
 show_post_thumbnail: false
-tags:
-  - mobil
-categories:
-  - sewa mobil jogja
 # layout options: single, single-sidebar
 layout: single
 ---
