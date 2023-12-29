@@ -9,7 +9,7 @@ show_author_byline: false
 show_post_date: false
 show_button_links: false
 # for listing page layout
-layout: list # list, list-sidebar, list-grid
+layout: list-grid # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
@@ -27,7 +27,7 @@ sidebar:
   categories_link: false
   series_link: false
   tags_link: false
-  show_sidebar_adunit: true # show ad container
+  show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
 cascade:
