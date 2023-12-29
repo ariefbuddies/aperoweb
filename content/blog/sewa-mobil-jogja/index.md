@@ -1,6 +1,6 @@
 ---
 title: "Sewa Mobil Jogja"
-subtitle: "Bening Abadi Transport menyewakan mobil dengan harga terjangkau untuk mahasiswa, pelajar, dan umum lokasi strategis di depan kampus UNY dan UMY Gamping Yogyakarta."
+subtitle: "Bening Abadi Transport menyewakan mobil dengan harga terjangkau untuk mahasiswa, pelajar, dan umum. Lokasi strategis di depan kampus UNY Samirono dan UMY Gamping Yogyakarta."
 excerpt: "Sewa Mobil Jogja menyewakan mobil murah."
 date: 2022-11-29
 author: "BAT"
