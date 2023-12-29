@@ -6,13 +6,6 @@ date: 2022-11-27
 author: "BAT"
 show_post_thumbnail: false
 draft: false
-tags:
-  - kamar
-  - homestay
-  - guesthouse
-  - room
-categories:
-  - penginapan murah jogja
 # layout options: single, single-sidebar
 layout: single
 ---
