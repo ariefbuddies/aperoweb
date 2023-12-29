@@ -93,9 +93,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.instagram.com/explore/tags/apero/"
 [taxonomies]
-  category = "categories"
+  category = ""
   series = ""
-  tag = ""
+  tag = "tags"
 [menu]
   # Configure header 
   [[menu.header]]
