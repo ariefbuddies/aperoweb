@@ -2,7 +2,6 @@
 title: "Soto Sampah Jogja"
 date: 2023-12-06
 description: "The Soto Sampah Jogja"
-tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 
 <img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/soto-sampah2.jpg?w=200&radius=18&force_format=png&"
