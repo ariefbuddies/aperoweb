@@ -7,7 +7,7 @@ image_left: false
 text_align_left: false
 show_social_links: false # specify social accounts in site config
 show_action_link: true
-action_link: /aperoweb/blog/sewa-mobil-jogja/
+action_link: /blog/sewa-mobil-jogja/
 action_label: "👉Ayo klik disini untuk sewa mobil jogja &rarr;"
 action_type: text # text, button
 type: home
