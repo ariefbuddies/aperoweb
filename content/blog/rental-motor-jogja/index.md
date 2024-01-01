@@ -1,5 +1,5 @@
 ---
-title: "Rental Motor Jogja"
+title: "Rental Motor Jogja Sewa Murah 2024"
 subtitle: "Rental Motor Jogja menyewakan motor dengan harga murah dan terjangkau untuk mahasiswa, pelajar, dan umum."
 excerpt: "Rental Motor Jogja menyewakan motor murah untuk jogja dan sekitarnya."
 date: 2022-11-28
