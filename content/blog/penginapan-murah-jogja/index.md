@@ -1,5 +1,5 @@
 ---
-title: "Penginapan Murah Jogja"
+title: "Penginapan Murah Jogja 2024"
 subtitle: "Penginapan Murah Jogja menyewakan kamar dan homestay / guesthouse untuk turis dan pengunjung kota Jogja tercinta dengan harga terjangkau."
 excerpt: "Penginapan Murah Jogja menyewakan kamar dan homestay murah."
 date: 2022-11-27
@@ -9,7 +9,7 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 ---
-# Penginapan Murah Jogja IstimeW:a:h
+# Penginapan Murah Jogja IstimeW🅰️h
 ![homestay](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5a4df3448bb6d-1-650x450.jpg?w=400&radius=25&force_format=png&)
 <b>Dateng ke jogja ga punya temen ato sodara buat menginap, yah terpaksa deh cari penginapan. Di Bening Guest House kami menyediakan kamar yang terdekat dengan UGM dan UNY jogja, lalu kamar dan homestay dengan harga permalam mulai dari 165 ribu saja dan bisa kamu booking juga via aplikasi Traveloka!</b>
 <hr>
