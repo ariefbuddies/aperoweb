@@ -66,7 +66,7 @@ enableRobotsTXT = true
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
-  headingFontFamily = sans-serif"
+  headingFontFamily = "sans-serif"
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
