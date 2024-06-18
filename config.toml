@@ -115,7 +115,7 @@ enableRobotsTXT = true
     url = "/blog/penginapan-murah-jogja"
     weight = 3
   [[menu.header]]
-    name = "[Obyek Wisata & Kuliner Jogja Ter❤️]"
+    name = "Obyek Wisata & Kuliner Jogja Ter❤️"
     title = "Obyek Wisata Jogja"
     url = "/blog/"
     weight = 4
