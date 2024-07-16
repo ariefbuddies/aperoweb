@@ -11,7 +11,7 @@ layout: single
 ---
 # Penginapan Murah Jogja IstimeW🅰️h
 ![homestay](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5a4df3448bb6d-1-650x450.jpg?w=400&radius=25&force_format=png&)
-<b>Dateng ke jogja ga punya temen ato sodara buat menginap, yah terpaksa deh cari penginapan. Di Bening Guest House kami menyediakan kamar yang terdekat dengan UGM dan UNY jogja, lalu kamar dan homestay dengan harga permalam mulai dari 165 ribu saja dan bisa kamu booking juga via aplikasi Traveloka!</b>
+<b>Dateng ke jogja ga punya temen ato sodara buat menginap, yah terpaksa deh cari penginapan. Di Bening Guest House kami menyediakan kamar yang terdekat dengan UGM dan UNY jogja, lalu kamar dan homestay dengan harga permalam mulai dari 175 ribu saja dan bisa kamu booking juga via aplikasi Traveloka!</b>
 <hr>
 
 ### HOMESTAY 750 Ribu Permalam ( 10 Orang M🅰️x)
@@ -28,23 +28,23 @@ layout: single
 
 ---
 
-### Kamar Deluxe 250 Ribu Permalam ( 2 Orang M🅰️x)
+### Kamar Deluxe 275 Ribu Permalam ( 2 Orang M🅰️x)
 ![kamar-deluxe](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k8.jpg?w=240&radius=20&force_format=png&#center)
 #### FASILITAS
 > * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
 > * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Dalam (Air Panas)
 > * Extra Bed/person Rp 50.000 / Malam
-> * Extra Time Rp. 25.000 per jam (selama persediaan kamar masih ada)
+> * Extra Time Rp. 27.500 per jam (selama persediaan kamar masih ada)
 
 ---
 
-### Kamar Standar 165 Ribu Permalam ( 2 Orang M🅰️x)
+### Kamar Standar 175 Ribu Permalam ( 2 Orang M🅰️x)
 ![kamar-standart](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k10.jpg?w=240&radius=20&force_format=png&#center)
 #### FASILITAS
 > * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
-> * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Dalam (Air Panas)
+> * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Luar
 > * Extra Bed/person Rp 50.000 / Malam
-> * Extra Time Rp. 16.500 per jam (selama persediaan kamar masih ada)
+> * Extra Time Rp. 17.500 per jam (selama persediaan kamar masih ada)
 
 ---
 
