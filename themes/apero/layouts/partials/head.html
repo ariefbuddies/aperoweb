@@ -7,31 +7,14 @@
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-3LK8KSCRSR"></script>
-  <script>
- grantButton.addEventListener("click", function() {
-    localStorage.setItem("consentGranted", "true");
-    function gtag() { dataLayer.push(arguments); }
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3LK8KSCRSR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    gtag('consent', 'update', {
-      ad_user_data: 'granted',
-      ad_personalization: 'granted',
-      ad_storage: 'granted',
-      analytics_storage: 'granted'
-    });
-  });
-
-  // Load gtag.js script.
-  var gtagScript = document.createElement('script');
-  gtagScript.async = true;
-  gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-3LK8KSCRSR
-
-';
-
-  var firstScript = document.getElementsByTagName('script')[0];
-  firstScript.parentNode.insertBefore(gtagScript,firstScript);
-
-  </script>
+  gtag('config', 'G-3LK8KSCRSR');
+</script>
   <link rel="shortcut icon" href="{{ .Site.Params.favicon }}" type="image/x-icon">
   <link rel="icon" href="{{ .Site.Params.favicon }}" type="image/x-icon">
   {{ range .AlternativeOutputFormats }}
