@@ -31,7 +31,8 @@ layout: single
 
 <h3><center>Kamar Deluxe 275 Ribu Permalam ( 2 Orang M🅰️x ) </center></h3>
 
-![kamar-deluxe](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k8.jpg?w=240&radius=20&force_format=png&#center)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k8.jpg?w=240&radius=20&force_format=png&"></p>
+
 #### FASILITAS
 > * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
 > * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Dalam (Air Panas)
@@ -42,7 +43,9 @@ layout: single
 
 <h3><center> Kamar Standar 175 Ribu Permalam ( 2 Orang M🅰️x ) </center></h3>
 
-![kamar-standart](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k10.jpg?w=240&radius=20&force_format=png&#center)
+
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k10.jpg?w=240&radius=20&force_format=png&"></p>
+
 #### FASILITAS
 > * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
 > * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Luar
