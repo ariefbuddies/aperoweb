@@ -203,7 +203,8 @@ layout: single
 <h3><center>Grand Max PU BOX</center></h3>
 
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5b0bed6990b95.webp?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key: 
+
+<h3><center>Lepas KuncI🗝️</center></h3>
     
 | Durasi  | Harga |
 | ----- | --- |
