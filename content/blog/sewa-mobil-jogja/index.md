@@ -25,6 +25,7 @@ layout: single
          </div>
          
 <h3><center>Lepas Kunci 🗝️</center></h3>
+
 | Durasi  | Harga |
 | ----- | --- |
 | 6 Jam   | **350 Ribu**  |
