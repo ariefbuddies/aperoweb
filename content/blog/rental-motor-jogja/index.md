@@ -14,10 +14,10 @@ layout: single
 ### Honda Beat New Street
 ![beat-trail](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/beat-trail.jpg?w=200&radius=25&force_format=png&)
     
-#### 85 Ribu / Hari
+#### <p style="text-align:center;">85 Ribu / Hari</p>
 
 ### Honda Genio
-<p style="text-align:center;">![genio](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/genio.jpg?w=200&radius=25&force_format=png&)</p>
+![genio](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/genio.jpg?w=200&radius=25&force_format=png&)
 
 ### 85 Ribu / Hari
 
