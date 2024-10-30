@@ -37,8 +37,7 @@ layout: single
     
 
 ### 85 Ribu / Hari
-<p align="center">
-  <img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/vario.jpg?w=200&radius=25&force_format=png&">
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/vario.jpg?w=200&radius=25&force_format=png&">
 </p>
 ---
 
