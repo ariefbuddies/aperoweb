@@ -35,7 +35,7 @@ layout: single
 
 <h3><center>🅰️ll New Honda Brio Matic</center></h3>
 
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg?w=240&radius=20&force_format=png&#center)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg?w=240&radius=20&force_format=png&"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
 
@@ -56,7 +56,7 @@ layout: single
 
 <h3><center>Avanza Veloz ManuAl</center></h3>
 
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
 
@@ -77,7 +77,7 @@ layout: single
 
 <h3><center>Avanza Veloz Matic</center></h3> 
 
-![img](https://aceapugtar.cloudimg.io/gigitdemo.my.id/veloz-matic.jpg?w=240&radius=20&force_format=png&#center)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/gigitdemo.my.id/veloz-matic.jpg?w=240&radius=20&force_format=png&"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
     
@@ -99,7 +99,7 @@ layout: single
 
 <h3><center>Honda Brio CBU Matic</center></h3>
 
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-cbu-matic-2014.jpg?w=240&radius=20&force_format=png&#center)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-cbu-matic-2014.jpg?w=240&radius=20&force_format=png&"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
 
@@ -120,7 +120,7 @@ layout: single
 
 <h3><center>All New Honda Brio Matic</center></h3>
 
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2018.jpg?w=240&radius=20&force_format=png&"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
     
@@ -141,7 +141,7 @@ layout: single
 
 <h3><center>Mobilio Manual</center></h3>
 
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/mobilio-manual-2017.jpg?w=240&radius=20&force_format=png&#center)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/mobilio-manual-2017.jpg?w=240&radius=20&force_format=png&"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
     
@@ -162,7 +162,8 @@ layout: single
 
 <h3><center>Toyota Agya TRD AuToMatic</center></h3>
 
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/agya.jpg?w=240&radius=20&force_format=png&#center)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/agya.jpg?w=240&radius=20&force_format=png&#center"></p>
+
 <h3><center>Lepas Kunci 🗝️</center></h3>
     
 | Durasi  | Harga |
@@ -182,7 +183,8 @@ layout: single
 
 <h3><center>Toyota Calya Matic</center></h3>
   
-![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/calya-matic-2016.jpg?w=240&radius=20&force_format=png&#center)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/calya-matic-2016.jpg?w=240&radius=20&force_format=png&"></p>
+
 <h3><center>Lepas Kunci 🗝️</center></h3>
     
 | Durasi  | Harga |
