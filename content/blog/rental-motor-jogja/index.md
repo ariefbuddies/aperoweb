@@ -27,18 +27,17 @@ layout: single
 ### 75 Ribu / Hari
 
 ### Honda Scoopy 
-![scoopy](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/scoopy.jpg?w=200&radius=25&force_format=png&)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/scoopy.jpg?w=200&radius=25&force_format=png&)"</p>
 
 ### 90 Ribu / Hari
 
 ### Honda Vario 125
 
-![vario125](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/vario.jpg?w=200&radius=25&force_format=png&)
-    
-
-### 85 Ribu / Hari
 <p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/vario.jpg?w=200&radius=25&force_format=png&">
 </p>
+    
+### 85 Ribu / Hari
+
 ---
 
 HARGA DI WEB INI BUKAN HARGA DI SAAT HIGH SEASON & HARGA BISA BERUBAH SEWAKTU WAKTU TANPA PEMBERITAHUAN
