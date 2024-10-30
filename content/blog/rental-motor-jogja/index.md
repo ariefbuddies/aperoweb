@@ -17,7 +17,7 @@ layout: single
 #### 85 Ribu / Hari
 
 ### Honda Genio
-![genio](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/genio.jpg?w=200&radius=25&force_format=png&)
+<p style="text-align:center;">![genio](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/genio.jpg?w=200&radius=25&force_format=png&)</p>
 
 ### 85 Ribu / Hari
 
