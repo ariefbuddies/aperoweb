@@ -54,7 +54,7 @@ layout: single
 > * Perhari **Call/WA**
 ---
 
-<h3><center>Avanza Veloz Manu:a:l</center></h3>
+<h3><center>Avanza Veloz ManuAl</center></h3>
 
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
 
@@ -97,7 +97,7 @@ layout: single
     
 ---
 
-<h3><center>Honda Brio CBU M:a:tic</center></h3>
+<h3><center>Honda Brio CBU Matic</center></h3>
 
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-cbu-matic-2014.jpg?w=240&radius=20&force_format=png&#center)
 
@@ -118,7 +118,7 @@ layout: single
 > * Perhari **Call/WA**
 ---
 
-<h3><center>All New Honda Brio M:a:tic</center></h3>
+<h3><center>All New Honda Brio Matic</center></h3>
 
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
 
@@ -139,7 +139,7 @@ layout: single
 > * Perhari **Call/WA**
 ---
 
-<h3><center>Mobilio Manu:a:l</center></h3>
+<h3><center>Mobilio Manual</center></h3>
 
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/mobilio-manual-2017.jpg?w=240&radius=20&force_format=png&#center)
 
@@ -160,45 +160,48 @@ layout: single
 > * Perhari **Call/WA**
 ---
 
-## Toyota Agya TRD AuToM:a:tic 
+<h3><center>Toyota Agya TRD AuToMatic</center></h3>
+
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/agya.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key: 
+<h3><center>Lepas Kunci 🗝️</center></h3>
     
 | Durasi  | Harga |
 | ----- | --- |
 | 12 Jam | **225 Ribu**  |
 | 24 Jam | **275 Ribu** |
 
-### Mobil ➕ Driver (tanpa BBM)
+<h3><center>Mobil ➕ Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-### Mobil ➕ Driver ➕ BBM
+<h3><center>Mobil ➕ Driver ➕ BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
 ---
 
-## Toyota Calya M:a:tic 
+<h3><center>Toyota Calya Matic</center></h3>
+  
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/calya-matic-2016.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key: 
+<h3><center>Lepas Kunci 🗝️</center></h3>
     
 | Durasi  | Harga |
 | ----- | --- |
 | 12 Jam | **250 Ribu**  |
 | 24 Jam | **300 Ribu** |
 
-### Mobil ➕ Driver (tanpa BBM)
+<h3><center>Mobil ➕ Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-### Mobil ➕ Driver ➕ BBM
+<h3><center>Mobil ➕ Driver ➕ BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
 ---
 
-## Grand Max PU BOX 
+<h3><center>Grand Max PU BOX</center></h3>
+
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5b0bed6990b95.webp?w=240&radius=20&force_format=png&#center)
 ### Lepas Kunci:key: 
     
@@ -207,11 +210,11 @@ layout: single
 | 12 Jam | **250 Ribu**  |
 | 24 Jam | **300 Ribu** |
 
-### Mobil➕ Driver (tanpa BBM)
+<h3><center>Mobil➕ Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari ==Call/WA==
-### Mobil ➕ Driver ➕ BBM
+<h3><center>Mobil ➕ Driver ➕ BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
