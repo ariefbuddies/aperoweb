@@ -37,7 +37,9 @@ layout: single
     
 
 ### 85 Ribu / Hari
-
+<p align="center">
+  <img width="600" height="200" src="https://www.python.org/python-.png">
+</p>
 ---
 
 HARGA DI WEB INI BUKAN HARGA DI SAAT HIGH SEASON & HARGA BISA BERUBAH SEWAKTU WAKTU TANPA PEMBERITAHUAN
