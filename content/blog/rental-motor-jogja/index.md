@@ -12,29 +12,28 @@ layout: single
 # <center>Rental Motor Jogj:a:</center> 
 ## Daftar Motor Rental :construction: 🛵
 ### <p style="text-align:center;">Honda Beat New Street</p>
-![beat-trail](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/beat-trail.jpg?w=200&radius=25&force_format=png&)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/beat-trail.jpg?w=200&radius=25&force_format=png&"></p>
     
 #### <p style="text-align:center;">85 Ribu / Hari</p>
 
 ### <p style="text-align:center;">Honda Genio</p>
-![genio](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/genio.jpg?w=200&radius=25&force_format=png&)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/genio.jpg?w=200&radius=25&force_format=png&"></p>
 
 ### <p style="text-align:center;">85 Ribu / Hari</p>
 
 ### <p style="text-align:center;">Honda Beat 110</p>
-![beat110](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/fjimg-20191224-145508.png?w=200&radius=25&force_format=png&)
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/fjimg-20191224-145508.png?w=200&radius=25&force_format=png&"></p>
 
 ### <p style="text-align:center;">75 Ribu / Hari</p>
 
 ### <p style="text-align:center;">Honda Scoopy </p>
-<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/scoopy.jpg?w=200&radius=25&force_format=png&)"</p>
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/scoopy.jpg?w=200&radius=25&force_format=png&"></p>
 
 ### <p style="text-align:center;">90 Ribu / Hari</p>
 
 ### <p style="text-align:center;">Honda Vario 125</p>
 
-<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/vario.jpg?w=200&radius=25&force_format=png&">
-</p>
+<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/vario.jpg?w=200&radius=25&force_format=png&"></p>
     
 ### <p style="text-align:center;">85 Ribu / Hari</p>
 
