@@ -12,7 +12,7 @@ layout: single
 # <center>Rental Motor Jogj:a:</center> 
 ## Daftar Motor Rental :construction: 🛵
 ### <p style="text-align:center;">Honda Beat New Street</p>
-<p align="center">![beat-trail](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/beat-trail.jpg?w=200&radius=25&force_format=png&)</p>
+![beat-trail](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/beat-trail.jpg?w=200&radius=25&force_format=png&)
     
 #### <p style="text-align:center;">85 Ribu / Hari</p>
 
