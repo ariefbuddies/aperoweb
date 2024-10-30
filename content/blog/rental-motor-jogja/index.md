@@ -12,7 +12,7 @@ layout: single
 # <center>Rental Motor Jogj:a:</center> 
 <h2><center>Daftar Motor Rental 🚧 🛵</center></h2>
 
-### <center>Honda Beat New Street</center>
+### <h3><center>Honda Beat New Street</center></h3>
 <p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/beat-trail.jpg?w=200&radius=25&force_format=png&"></p>
     
 #### <p style="text-align:center;">85 Ribu / Hari</p>
