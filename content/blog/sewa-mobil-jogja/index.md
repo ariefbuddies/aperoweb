@@ -44,11 +44,11 @@ layout: single
 | 12 Jam   | **275 Ribu**  |
 | 24 Jam | **325 Ribu** |
 
-<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
+<h3><center>Mobil ➕ Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
+<h3><center>Mobil ➕ Driver ➕ BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
@@ -65,11 +65,11 @@ layout: single
 | 12 Jam   | **250 Ribu**  |
 | 24 Jam | **300 Ribu** |
 
-<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
+<h3><center>Mobil ➕ Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
+<h3><center>Mobil ➕ Driver ➕ BBM</center></h3>
     
 >
 > * Perhari **Call/WA**
@@ -86,11 +86,11 @@ layout: single
 | 12 Jam   | **275 Ribu**  |
 | 24 Jam | **325 ribu** |
 
-<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
+<h3><center>Mobil ➕ Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
+<h3><center>Mobil ➕ Driver ➕ BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
@@ -108,11 +108,11 @@ layout: single
 | 12 Jam   | **275 Ribu**  |
 | 24 Jam | **325 Ribu** |
 
-<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
+<h3><center>Mobil ➕ Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
+<h3><center>Mobil ➕ Driver ➕ BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
@@ -129,11 +129,11 @@ layout: single
 | 12 Jam   | **275 Ribu**  |
 | 24 Jam | **325 Ribu** |
 
-<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
+<h3><center>Mobil ➕ Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
+<h3><center>Mobil ➕ Driver ➕ BBM</center></h3>
     
 >
 > * Perhari **Call/WA**
@@ -150,11 +150,11 @@ layout: single
 | 12 Jam | **250 Ribu**  |
 | 24 Jam | **300 Ribu** |
 
-<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
+<h3><center>Mobil ➕ Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
+<h3><center>Mobil ➕ Driver ➕ BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
@@ -169,11 +169,11 @@ layout: single
 | 12 Jam | **225 Ribu**  |
 | 24 Jam | **275 Ribu** |
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+### Mobil ➕ Driver (tanpa BBM)
     
 > 
 > * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+### Mobil ➕ Driver ➕ BBM
     
 > 
 > * Perhari **Call/WA**
@@ -188,11 +188,11 @@ layout: single
 | 12 Jam | **250 Ribu**  |
 | 24 Jam | **300 Ribu** |
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+### Mobil ➕ Driver (tanpa BBM)
     
 > 
 > * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+### Mobil ➕ Driver ➕ BBM
     
 > 
 > * Perhari **Call/WA**
@@ -207,11 +207,11 @@ layout: single
 | 12 Jam | **250 Ribu**  |
 | 24 Jam | **300 Ribu** |
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+### Mobil➕ Driver (tanpa BBM)
     
 > 
 > * Perhari ==Call/WA==
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+### Mobil ➕ Driver ➕ BBM
     
 > 
 > * Perhari **Call/WA**
