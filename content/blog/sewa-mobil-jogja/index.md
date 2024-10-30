@@ -12,10 +12,10 @@ layout: single
 
 # Sewa Mobil Jogja IstimeW🅰️h
 
-## Daftar Mobil Bening Abadi Transport
+<h2><center>Daftar Mobil Bening Abadi Transport</center></h2>
 <hr>
 
-## WULING AIR EV LR(new)
+<h3><center>WULING AIR EV LR(new)</center></h3>
 
  <div align="center" class="swiffy-slider slider-nav-autoplay slider-item-nogap slider-item-snapstart slider-item-show2-sm slider-item-nosnap-touch slider-nav-round slider-nav-dark slider-nav-sm slider-nav-outside slider-nav-autohide slider-nav-autoplay slider-indicators-square slider-indicators-highlight slider-nav-animation slider-nav-animation-scaleup slider-nav-animation-slow" data-slider-nav-autoplay-interval="3500">
                <ul class="slider-container">
@@ -24,7 +24,7 @@ layout: single
     </ul>
          </div>
          
-### Lepas Kunci 🗝️
+<h3><center>Lepas Kunci 🗝️</center></h3>
 | Durasi  | Harga |
 | ----- | --- |
 | 6 Jam   | **350 Ribu**  |
@@ -32,116 +32,116 @@ layout: single
 
 ---
 
-## 🅰️ll New Honda Brio Matic
+<h3><center>🅰️ll New Honda Brio Matic</center></h3>
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key: 
+<h3><center>Lepas Kunci🗝️</center></h3>
 
 | Durasi  | Harga |
 | ----- | --- |
 | 12 Jam   | **275 Ribu**  |
 | 24 Jam | **325 Ribu** |
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
 ---
 
-## Avanza Veloz Manu:a:l
+<h3><center>Avanza Veloz Manu:a:l</center></h3>
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key:
-    
+<h3><center>Lepas Kunci🗝️</center></h3>
+
 | Durasi  | Harga |
 | ----- | --- |
 | 12 Jam   | **250 Ribu**  |
 | 24 Jam | **300 Ribu** |
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
     
 >
 > * Perhari **Call/WA**
 ---
 
-## Avanza Veloz M:a:tic 
+<h3><center>Avanza Veloz Matic</center></h3> 
 ![img](https://aceapugtar.cloudimg.io/gigitdemo.my.id/veloz-matic.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key:
+<h3><center>Lepas Kunci🗝️</center></h3>
     
 | Durasi  | Harga |
 | ----- | --- |
 | 12 Jam   | **275 Ribu**  |
 | 24 Jam | **325 ribu** |
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
     
 ---
 
-## Honda Brio CBU M:a:tic
+<h3><center>Honda Brio CBU M:a:tic</center></h3>
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-cbu-matic-2014.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key: 
-    
+<h3><center>Lepas Kunci🗝️</center></h3>
+
 | Durasi  | Harga |
 | ----- | --- |
 | 12 Jam   | **275 Ribu**  |
 | 24 Jam | **325 Ribu** |
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
 ---
 
-## All New Honda Brio M:a:tic
+<h3><center>All New Honda Brio M:a:tic</center></h3>
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key: 
+<h3><center>Lepas Kunci🗝️</center></h3>
     
 | Durasi  | Harga |
 | ----- | --- |
 | 12 Jam   | **275 Ribu**  |
 | 24 Jam | **325 Ribu** |
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
     
 >
 > * Perhari **Call/WA**
 ---
 
-## Mobilio Manu:a:l
+<h3><center>Mobilio Manu:a:l</center></h3>
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/mobilio-manual-2017.jpg?w=240&radius=20&force_format=png&#center)
-### Lepas Kunci:key: 
+<h3><center>Lepas Kunci🗝️</center></h3>
     
 | Durasi  | Harga |
 | ----- | --- |
 | 12 Jam | **250 Ribu**  |
 | 24 Jam | **300 Ribu** |
 
-### Mobil :heavy_plus_sign: Driver (tanpa BBM)
+<h3><center>Mobil :heavy_plus_sign: Driver (tanpa BBM)</center></h3>
     
 > 
 > * Perhari **Call/WA**
-### Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM
+<h3><center>Mobil :heavy_plus_sign: Driver :heavy_plus_sign: BBM</center></h3>
     
 > 
 > * Perhari **Call/WA**
