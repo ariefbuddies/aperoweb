@@ -34,7 +34,9 @@ layout: single
 ---
 
 <h3><center>🅰️ll New Honda Brio Matic</center></h3>
+
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg?w=240&radius=20&force_format=png&#center)
+
 <h3><center>Lepas Kunci🗝️</center></h3>
 
 | Durasi  | Harga |
@@ -53,7 +55,9 @@ layout: single
 ---
 
 <h3><center>Avanza Veloz Manu:a:l</center></h3>
+
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
+
 <h3><center>Lepas Kunci🗝️</center></h3>
 
 | Durasi  | Harga |
@@ -72,7 +76,9 @@ layout: single
 ---
 
 <h3><center>Avanza Veloz Matic</center></h3> 
+
 ![img](https://aceapugtar.cloudimg.io/gigitdemo.my.id/veloz-matic.jpg?w=240&radius=20&force_format=png&#center)
+
 <h3><center>Lepas Kunci🗝️</center></h3>
     
 | Durasi  | Harga |
@@ -92,7 +98,9 @@ layout: single
 ---
 
 <h3><center>Honda Brio CBU M:a:tic</center></h3>
+
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-cbu-matic-2014.jpg?w=240&radius=20&force_format=png&#center)
+
 <h3><center>Lepas Kunci🗝️</center></h3>
 
 | Durasi  | Harga |
@@ -111,7 +119,9 @@ layout: single
 ---
 
 <h3><center>All New Honda Brio M:a:tic</center></h3>
+
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2018.jpg?w=240&radius=20&force_format=png&#center)
+
 <h3><center>Lepas Kunci🗝️</center></h3>
     
 | Durasi  | Harga |
@@ -130,7 +140,9 @@ layout: single
 ---
 
 <h3><center>Mobilio Manu:a:l</center></h3>
+
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/mobilio-manual-2017.jpg?w=240&radius=20&force_format=png&#center)
+
 <h3><center>Lepas Kunci🗝️</center></h3>
     
 | Durasi  | Harga |
