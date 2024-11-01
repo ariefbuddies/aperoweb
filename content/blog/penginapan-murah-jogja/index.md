@@ -14,7 +14,7 @@ layout: single
 <b>Dateng ke jogja ga punya temen ato sodara buat menginap, yah terpaksa deh cari penginapan. Di Bening Guest House kami menyediakan kamar yang terdekat dengan UGM dan UNY jogja, lalu kamar dan homestay dengan harga permalam mulai dari 175 ribu saja dan bisa kamu booking juga via aplikasi Traveloka!</b>
 <hr>
 
-<h3><center>HOMESTAY 750 Ribu Permalam ( 10 Orang M🅰️x ) </center></h3>
+<h3><center>HOMESTAY 750 Ribu Permalam      ( 10 Orang M🅰️x ) </center></h3>
   
 ![homestay-murah](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/ghtamu.jpg?w=400&radius=25&force_format=png&)
 #### FASILITAS
