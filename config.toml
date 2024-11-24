@@ -32,7 +32,7 @@ enableRobotsTXT = true
   orgLocal = "Anywhere"
   description = "Sewa Mobil Jogja Murah Mahasiswa Pelajar Umum"
   favicon = "/img/favicon.ico"
-  logo = "/img/logonewbening2.png"
+  logo = "/img/logonewbening3.png"
   mainSections = ["blog"]
   navallcaps = false
   # show/hide social icons in site header & footer
