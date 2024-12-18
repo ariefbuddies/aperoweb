@@ -1,7 +1,7 @@
 ---
-title: "Sewa Mobil Jogja & Rental Motor Jogja & Penginapan Murah Jogja 2024"
-subtitle: "Tempat sewa mobil dan motor paling 🅰️syik se Jogja dengan harga terjangkau, Sewa Mobil Jogja Mulai 250k/Hari | Sewa Motor Mulai 70k/Hari | Penginapan Mulai 175k/Malam, dengan cabang di Stasiun Lempuyangan d🅰️n UMY Gamping Yogyakarta🚧 🚧"
-description: "Sewa Mobil Jogja Rental Murah 2024. Rental Motor Jogja Sewa Murah dan Penginapan Murah Jogja. W🅰️ 0818-267-443. Lokasi dekat UGM dan UNY Samirono Jogja... LIBURAN PANJAAANG TELAH TIBAA HOREEEEE!!! SAATNYA KE 🏖️ PARANGTRITIS... SAATNYA KE 🏞️ KALIURANG JOGJAAA PAKE MOTOR PLAT 🆎!!!🤩🤩🤩"
+title: "Sewa Mobil Jogja Bening Abadi Transport Mengucapkan Selamat Hari Natal 🎄 Dan Tahun Baru 2025 🎉!!"
+subtitle: "Tempat sewa mobil dan motor paling 🅰️syik se Jogja Raya dan sekitarnya dengan harga terjangkau, Sewa Mobil Jogja Mulai 250k/Hari | Sewa Motor Mulai 70k/Hari | Penginapan Mulai 175k/Malam, dengan cabang di Stasiun Lempuyangan d🅰️n UMY Gamping Yogyakarta🚧 🚧"
+description: "Sewa Mobil Jogja Rental Murah 2025. Rental Motor Jogja Sewa Murah dan Penginapan Murah Jogja. W🅰️ 0818-267-443. Lokasi dekat UGM dan UNY Samirono Jogja... SELAMAT HARI NATAL UNTUK YG MERAYAKAN 🧑‍🎄 DAN SELAMAT TAHUN BARU UNTUK SEMUANYA ARGGHHHH🥳🤩!!!!🎉 MARI LIBURAN DI JOGJA PAKE 🛵🚗 PLAT 🆎YEAHHH🤩🤩!!!"
 image_left: false
 text_align_left: false
 show_social_links: false # specify social accounts in site config
