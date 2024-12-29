@@ -1,5 +1,5 @@
 ---
-title: "Penginapan Murah Jogja 2024"
+title: "Penginapan Murah Jogja 2025"
 subtitle: "Penginapan Murah Jogja menyewakan kamar dan homestay / guesthouse untuk turis dan pengunjung kota Jogja tercinta dengan harga terjangkau."
 excerpt: "Penginapan Murah Jogja menyewakan kamar dan homestay murah."
 date: 2022-11-27
