@@ -1,5 +1,5 @@
 ---
-title: "Sewa Mobil Jogja Rental Murah 2024"
+title: "Sewa Mobil Jogja Rental Murah 2025"
 subtitle: "Bening Abadi Transport menyewakan mobil dengan harga terjangkau untuk mahasiswa, pelajar, dan umum. Lokasi strategis di depan kampus UNY Samirono dan UMY Gamping Yogyakarta."
 excerpt: "Sewa Mobil Jogja menyewakan mobil murah."
 date: 2022-11-29
