@@ -1,5 +1,5 @@
 ---
-title: "Bening Abadi Transport Tempat Sewa Mobil di Jogja Harga Terjangkau untuk Mahasiswa Pelajar dan Umum"
+title: "Bening Abadi Transport Tempat Sewa Mobil di Jogja Ter💘"
 subtitle: "Tempat sewa mobil dan motor paling 🅰️syik se Jogja Raya dan sekitarnya dengan harga terjangkau, Sewa Mobil Jogja Mulai 250k/Hari | Sewa Motor Mulai 70k/Hari | Penginapan Mulai 175k/Malam, dengan cabang di Stasiun Lempuyangan d🅰️n UMY Gamping Yogyakarta🚧 🚧"
 description: "Sewa mobil jogja untuk pelajar dan umum harga terjangkau! Oke GAS WA 0818 267 443 untuk order sewa mobil, rental motor, atau penginapan🤩!!!!🎉 MARI LIBURAN DI JOGJA PAKE 🛵🚗 PLAT AB🆎 YEAHHH🕺!!!"
 image_left: false
