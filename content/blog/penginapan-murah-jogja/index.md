@@ -11,7 +11,7 @@ layout: single
 ---
 # Penginapan Murah Jogja IstimeW🅰️h
 ![homestay](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5a4df3448bb6d-1-650x450.jpg?w=400&radius=25&force_format=png&)
-<b>Dateng ke jogja ga punya temen ato sodara buat menginap, yah terpaksa deh cari penginapan. Di Bening Guest House kami menyediakan kamar yang terdekat dengan UGM dan UNY jogja, lalu kamar dan homestay dengan harga permalam mulai dari 175 ribu saja dan bisa kamu booking juga via aplikasi Traveloka!</b>
+<b>Dateng ke jogja ga punya temen ato sodara buat menginap, yah terpaksa deh cari penginapan. Di Bening Guest House kami menyediakan kamar yang terdekat dengan UGM dan UNY jogja, lalu kamar dan homestay dengan harga permalam mulai dari 125 ribu saja dan bisa kamu booking juga via aplikasi Traveloka!</b>
 <hr>
 
 <h3><center>HOMESTAY 750 Ribu Permalam      (10 Orang M🅰️x) </center></h3>
@@ -37,7 +37,7 @@ layout: single
 > * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
 > * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Dalam (Air Panas)
 > * Extra Bed/person Rp 50.000 / Malam
-> * Extra Time Rp. 27.500 per jam (selama persediaan kamar masih ada)
+> * Extra Time Rp. 22.500 per jam (selama persediaan kamar masih ada)
 
 ---
 
@@ -50,7 +50,7 @@ layout: single
 > * Check In | 13.00 WIB >> Check Out | 12.00 WIB🗝️
 > * AC, TV, Bed, Free Wifi, Welcome Drink, Kamar Mandi Luar
 > * Extra Bed/person Rp 50.000 / Malam
-> * Extra Time Rp. 17.500 per jam (selama persediaan kamar masih ada)
+> * Extra Time Rp. 12.500 per jam (selama persediaan kamar masih ada)
 
 ---
 
