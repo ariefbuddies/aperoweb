@@ -29,7 +29,7 @@ layout: single
 
 ---
 
-<h3><center>Kamar Deluxe 275 Ribu Permalam ( 2 Orang M🅰️x ) </center></h3>
+<h3><center>Kamar Deluxe 225 Ribu Permalam ( 2 Orang M🅰️x ) </center></h3>
 
 <p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k8.jpg?w=240&radius=20&force_format=png&"></p>
 
@@ -41,7 +41,7 @@ layout: single
 
 ---
 
-<h3><center> Kamar Standar 175 Ribu Permalam ( 2 Orang M🅰️x ) </center></h3>
+<h3><center> Kamar Standar 125 Ribu Permalam ( 2 Orang M🅰️x ) </center></h3>
 
 
 <p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/k10.jpg?w=240&radius=20&force_format=png&"></p>
