@@ -4,7 +4,7 @@ date: 2023-12-01
 description: "Batu Papal Jogja"
 ---
 
-<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/batu-papal-yogyakarta.jpg?w=200&radius=15&force_format=png&"
+<img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/batu-papal-yogyakarta.jpg"
      alt="Batu Papal"
      style="float: left; margin-right: 10px;" />
 
