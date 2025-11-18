@@ -19,8 +19,8 @@ layout: single
 
 <div align="center" class="swiffy-slider slider-nav-autoplay slider-item-nogap slider-item-snapstart slider-item-show2-sm slider-item-nosnap-touch slider-nav-round slider-nav-dark slider-nav-sm slider-nav-outside slider-nav-autohide slider-nav-autoplay slider-indicators-square slider-indicators-highlight slider-nav-animation slider-nav-animation-scaleup slider-nav-animation-slow" data-slider-nav-autoplay-interval="3500">
                <ul class="slider-container">
-        <li class="slide-visible"><img src="https://aceapugtar.cloudimg.io/beningabaditransport.com/images/wuling.jpg?w=200&radius=20&force_format=png&#center" style="max-width: 240px; height: 180px; display: block;"></li>
-         <li class="slide-visible"><img src="https://aceapugtar.cloudimg.io/beningabaditransport.com/images/wuling-price.jpg?w=200&radius=20&force_format=png&#center" style="max-width: 240px; height: 180px; display: block;"></li>
+        <li class="slide-visible"><img src="https://beningabaditransport.com/images/wuling.jpg" style="max-width: 240px; height: 180px; display: block;"></li>
+         <li class="slide-visible"><img src="https://beningabaditransport.com/images/wuling-price.jpg" style="max-width: 240px; height: 180px; display: block;"></li>
     </ul>
          </div>
          
@@ -35,7 +35,7 @@ layout: single
 
 <h3><center>🅰️ll New Honda Brio Matic</center></h3>
 
-<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg?w=240&radius=20&force_format=png&"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
 
@@ -56,7 +56,7 @@ layout: single
 
 <h3><center>Avanza Veloz ManuAl</center></h3>
 
-<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg?w=240&radius=20&force_format=png&"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/veloz-matic-2018.jpg"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
 
@@ -77,7 +77,7 @@ layout: single
 
 <h3><center>Avanza Veloz Matic</center></h3> 
 
-<p align="center"><img src="https://aceapugtar.cloudimg.io/gigitdemo.my.id/veloz-matic.jpg?w=240&radius=20&force_format=png&"></p>
+<p align="center"><img src="https://gigitdemo.my.id/veloz-matic.jpg"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
     
@@ -99,7 +99,7 @@ layout: single
 
 <h3><center>Honda Brio CBU Matic</center></h3>
 
-<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-cbu-matic-2014.jpg?w=240&radius=20&force_format=png&"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio-cbu-matic-2014.jpg"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
 
@@ -120,7 +120,7 @@ layout: single
 
 <h3><center>All New Honda Brio Matic</center></h3>
 
-<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2018.jpg?w=240&radius=20&force_format=png&"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2018.jpg"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
     
@@ -141,7 +141,7 @@ layout: single
 
 <h3><center>Mobilio Manual</center></h3>
 
-<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/mobilio-manual-2017.jpg?w=240&radius=20&force_format=png&"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/mobilio-manual-2017.jpg"></p>
 
 <h3><center>Lepas Kunci🗝️</center></h3>
     
@@ -162,7 +162,7 @@ layout: single
 
 <h3><center>Toyota Agya TRD AuToMatic</center></h3>
 
-<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/agya.jpg?w=240&radius=20&force_format=png&#center"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/agya.jpg"></p>
 
 <h3><center>Lepas Kunci 🗝️</center></h3>
     
@@ -183,7 +183,7 @@ layout: single
 
 <h3><center>Toyota Calya Matic</center></h3>
   
-<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/calya-matic-2016.jpg?w=240&radius=20&force_format=png&"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/calya-matic-2016.jpg"></p>
 
 <h3><center>Lepas Kunci 🗝️</center></h3>
     
@@ -204,7 +204,7 @@ layout: single
 
 <h3><center>Grand Max PU BOX</center></h3>
 
-<p align="center"><img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5b0bed6990b95.webp?w=240&radius=20&force_format=png&"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5b0bed6990b95.webp"></p>
 
 <h3><center>Lepas KuncI🗝️</center></h3>
     
