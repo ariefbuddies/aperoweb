@@ -4,7 +4,7 @@ date: 2023-12-02
 description: "Candi Boko Yogyakarta" 
 ---
 
-<img src="https://aceapugtar.cloudimg.io/gigitdemo.my.id/Candi%20Boko.jpg?w=200&radius=15&force_format=png&"
+<img src="https://gigitdemo.my.id/Candi%20Boko.jpg"
      alt="Candi Boko"
      style="float: left; margin-right: 10px;" />
 
