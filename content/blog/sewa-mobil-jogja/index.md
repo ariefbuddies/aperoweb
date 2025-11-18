@@ -15,24 +15,6 @@ layout: single
 <h2><center>Daftar Mobil Bening Abadi Transport</center></h2>
 <hr>
 
-<h3><center>WULING AIR EV LR(new)</center></h3>
-
-<div align="center" class="swiffy-slider slider-nav-autoplay slider-item-nogap slider-item-snapstart slider-item-show2-sm slider-item-nosnap-touch slider-nav-round slider-nav-dark slider-nav-sm slider-nav-outside slider-nav-autohide slider-nav-autoplay slider-indicators-square slider-indicators-highlight slider-nav-animation slider-nav-animation-scaleup slider-nav-animation-slow" data-slider-nav-autoplay-interval="3500">
-               <ul class="slider-container">
-        <li class="slide-visible"><img src="https://beningabaditransport.com/images/wuling.jpg" style="max-width: 240px; height: 180px; display: block;"></li>
-         <li class="slide-visible"><img src="https://beningabaditransport.com/images/wuling-price.jpg" style="max-width: 240px; height: 180px; display: block;"></li>
-    </ul>
-         </div>
-         
-<h3><center>Lepas Kunci 🗝️</center></h3>
-
-| Durasi  | Harga |
-| ----- | --- |
-| 6 Jam   | **350 Ribu**  |
-| PerHari | **450 Ribu** |
-
----
-
 <h3><center>🅰️ll New Honda Brio Matic</center></h3>
 
 <p align="center"><img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/all-new-brio-matic-2022.jpg"></p>
