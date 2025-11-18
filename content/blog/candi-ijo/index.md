@@ -4,7 +4,7 @@ date: 2023-12-03
 description: "Candi Ijo Jogja"
 ---
 
-<img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/candi-ijo.jpg"
+<img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/candi-ijo.JPG"
      alt="Candi Ijo"
      style="float: left; margin-right: 10px;" />
 
