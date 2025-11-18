@@ -4,7 +4,7 @@ date: 2023-12-05
 description: "The Gudeg Pawon Jogja"
 ---
 
-<img src="https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/gudeg-pawon2.jpg?w=200&radius=18&force_format=png&"
+<img src="https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/gudeg-pawon2.jpg"
      alt="Tebing Breksi"
      style="float: left; margin-right: 10px;" />
 
